@@ -1,0 +1,114 @@
+name,source,gender,wikidata,type
+"Frida Kahlo Way",wikidata,F,Q5588,way
+"Rosa Parks Lane",wikidata,F,Q41921,way
+"Alemany Boulevard",wikidata,M,Q3815531,way
+"Alvarado Street",wikidata,M,Q3187571,way
+"Anza Street",wikidata,M,Q727612,way
+"Arguello Boulevard",wikidata,M,Q6292028,way
+"Baker Street",wikidata,M,Q131929,way
+"Balboa Street",wikidata,M,Q19080,way
+"Bartlett Street",wikidata,M,Q7971654,way
+"Beale Street",wikidata,M,Q1292161,way
+"Bonifacio Street",wikidata,M,Q313604,way
+"Bradford Street",wikidata,M,Q1210370,way
+"Brannan Street",wikidata,M,Q936075,relation+way
+"Brewster Street",wikidata,M,Q864709,way
+"Broderick Street",wikidata,M,Q359265,way
+"Bryant Street",wikidata,M,Q5346273,relation+way
+"Buchanan Street",wikidata,M,Q6224309,way
+"Burnett Avenue",wikidata,M,Q280706,way
+"Cabrillo Street",wikidata,M,Q182491,way
+"Castro Street",wikidata,M,Q329781,way
+"Cesar Chavez Street",wikidata,M,Q355425,way
+"Cole Street",wikidata,M,Q432348,way
+"Coleman Street",wikidata,M,Q3568993,way
+"Colin P. Kelly Junior Street",wikidata,M,Q4392306,way
+"Davis Street",wikidata,M,Q8011813,way
+"De Haro Street",wikidata,M,Q5484128,way
+"Evans Avenue",wikidata,M,Q1323551,way
+"Fallon Place",wikidata,M,Q3525107,way
+"Farnsworth Lane",wikidata,M,Q360098,way
+"Fillmore Street",wikidata,M,Q12306,way
+"Folsom Street",wikidata,M,Q3185252,way
+"Franklin Street",wikidata,M,Q34969,way
+"Fremont Street",wikidata,M,Q169011,way
+"Fulton Street",wikidata,M,Q192496,way
+"Geary Boulevard",wikidata,M,Q795522,way
+"Grant Avenue",wikidata,M,Q34836,way
+"Guerrero Street",wikidata,M,Q5483428,way
+"Harding Road",wikidata,M,Q35286,way
+"Howard Street",wikidata,M,Q16066217,way
+"Ingalls Street",wikidata,M,Q1627021,way
+"Irving Street",wikidata,M,Q181667,way
+"Jack Kerouac Alley",wikidata,M,Q160534,way
+"Jackson Street",wikidata,M,Q11817,way
+"James Lick Freeway",wikidata,M,Q629500,way
+"Jefferson Street",wikidata,M,Q11812,way
+"Jerrold Avenue",wikidata,M,Q327049,way
+"John F Kennedy Drive",wikidata,M,Q9696,way
+"John F Shelley Drive",wikidata,M,Q1701740,way
+"John Muir Drive",wikidata,M,Q379580,way
+"Joost Avenue",wikidata,M,Q106965821,way
+"Juan Bautista Circle",wikidata,M,Q727612,way
+"Judah Street",wikidata,M,Q5893463,way
+"Junipero Serra Boulevard",wikidata,M,Q522107,way
+"Kearny Street",wikidata,M,Q518351,way
+"Keyes Avenue",wikidata,M,Q4218950,way
+"King Street",wikidata,M,Q2422831,way
+"Lane Street",wikidata,M,Q6535389,way
+"Lapham Way",wikidata,M,Q1556744,way
+"Lapu Lapu Street",wikidata,M,Q216275,way
+"Larkin Street",wikidata,M,Q12061100,way
+"Laussat Street",wikidata,M,Q3382948,way
+"Lawton Street",wikidata,M,Q13632030,way
+"Le Conte Avenue",wikidata,M,Q6244266,way
+"Leese Street",wikidata,M,Q6119084,way
+"Liggett Avenue",wikidata,M,Q1638139,way
+"Lincoln Boulevard",wikidata,M,Q91,way
+"Lincoln Court",wikidata,M,Q91,way
+"Lincoln Way",wikidata,M,Q91,way
+"Lyon Street",wikidata,M,Q517116,way
+"Market Street",wikidata,M,Q34969,relation+way
+"Martin Luther King Junior Drive",wikidata,M,Q8027,way
+"Mason Street",wikidata,M,Q356889,way
+"McAllister Street",wikidata,M,Q6790632,way
+"Montcalm Street",wikidata,M,Q453589,way
+"Montgomery Street",wikidata,M,Q6220059,way
+"Moraga Street",wikidata,M,Q2356932,way
+"Moultrie Street",wikidata,M,Q2580066,way
+"Nelson Rising Lane",wikidata,M,Q16105754,way
+"Noe Street",wikidata,M,Q6294298,way
+"Noriega Street",wikidata,M,Q9014941,way
+"O'Farrell Street",wikidata,M,Q6164015,way
+"O'Shaughnessy Boulevard",wikidata,M,Q1928805,way
+"Ortega Street",wikidata,M,Q6292252,way
+"Otis Street",wikidata,M,Q16065346,way
+"Pacheco Street",wikidata,M,Q104179574,way
+"Palou Avenue",wikidata,M,Q2636220,way
+"Pierce Street",wikidata,M,Q12312,way
+"Polk Street",wikidata,M,Q11891,way
+"Portola Drive",wikidata,M,Q461023,way
+"Rivera Street",wikidata,M,Q3742952,way
+"Rizal Street",wikidata,M,Q1500,way
+"Rolph Street",wikidata,M,Q878728,way
+"Scott Street",wikidata,M,Q354759,way
+"Selby Street",wikidata,M,Q7790619,way
+"Shafter Avenue",wikidata,M,Q6139512,way
+"Sheridan Street",wikidata,M,Q355452,way
+"Simonds Loop",wikidata,M,Q5544201,way
+"Sloat Boulevard",wikidata,M,Q634931,way
+"Starr King Way",wikidata,M,Q1590865,way
+"Steuart Street",wikidata,M,Q360401,way
+"Stevenson Street",wikidata,M,Q6272891,relation+way
+"Stockton Street",wikidata,M,Q878374,way
+"Taraval Street",wikidata,M,Q7512184,way
+"Taylor Street",wikidata,M,Q11896,way
+"Treat Avenue",wikidata,M,Q18228005,way
+"Turk Street",wikidata,M,Q5490030,way
+"Vallejo Street",wikidata,M,Q3291384,way
+"Van Ness Avenue",wikidata,M,Q6144602,way
+"Vicente Street",wikidata,M,Q312765,relation+way
+"Washington Street",wikidata,M,Q23,way
+"Webster Street",wikidata,M,Q106231,way
+"Willie Mays Plaza",wikidata,M,Q561852,way
+"Yorba Street",wikidata,M,Q6291542,way
