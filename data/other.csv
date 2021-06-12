@@ -5,6 +5,7 @@ name,source,gender,wikidata,type
 "Dolores Street",wikidata,,Q1000321,way
 "Fair Oaks Street",wikidata,,Q1550466,way
 "Jersey Street",wikidata,,Q1408,way
+"Lombard Street",wikidata,,Q15242635,way
 "Ramona Avenue",wikidata,,Q2326609,way
 "San Francisco – Oakland Bay Bridge",wikidata,,Q62;Q17042;Q232264,way
 "Twin Peaks Boulevard",wikidata,,Q1344297,way
@@ -87,10 +88,6 @@ name,source,gender,wikidata,type
 "4th Avenue",,,,way
 "4th Street",,,,way
 5,,,,way
-"560 Mission Street Plaza",,,,way
-"5th Avenue",,,,way
-"5th Street",,,,way
-"5th Street Plaza",,,,way
 6,,,,way
 7,,,,way
 8,,,,way
@@ -111,6 +108,10 @@ name,source,gender,wikidata,type
 23,,,,way
 24,,,,way
 25,,,,way
+"560 Mission Street Plaza",,,,way
+"5th Avenue",,,,way
+"5th Street",,,,way
+"5th Street Plaza",,,,way
 "611 Folsom Street Plaza",,,,way
 "6th Avenue",,,,way
 "6th Street",,,,way
@@ -173,7 +174,6 @@ name,source,gender,wikidata,type
 "Andover Street",,,,way
 "Ankeny Street",,,,way
 "Annapolis Terrace",,,,way
-"Anza Avenue",,,,way
 "Anzavista Avenue",,,,way
 "Apollo Street",,,,way
 "Apparel Way",,,,way
@@ -183,7 +183,6 @@ name,source,gender,wikidata,type
 "Aptos Avenue",,,,way
 "Aquavista Way",,,,way
 "Arago Street",,,,way
-"Arballo Drive",,,,way
 "Arbol Lane",,,,way
 "Arbor Street",,,,way
 "Arch Street",,,,way
@@ -214,7 +213,6 @@ name,source,gender,wikidata,type
 "Athens Street",,,,way
 "Atoll Circle",,,,way
 "Augusta Street",,,,way
-"Aurelius Walker Street",,,,way
 "Avalon Avenue",,,,way
 "Avenue A",,,,way
 "Avenue B",,,,way
@@ -239,7 +237,6 @@ name,source,gender,wikidata,type
 "Baden Avenue",,,,way
 "Baden Street",,,,way
 "Badger Street",,,,way
-"Baker Court",,,,way
 "Balceta Avenue",,,,way
 "Baldwin Court",,,,way
 "Balhi Court",,,,way
@@ -281,7 +278,6 @@ name,source,gender,wikidata,type
 "Behr Avenue",,,,way
 "Beideman Street",,,,way
 "Belcher Street",,,,way
-"Belden Place",,,,way
 "Belgrave Avenue",,,,way
 "Bell Court",,,,way
 "Bella Vista Way",,,,way
@@ -322,7 +318,6 @@ name,source,gender,wikidata,type
 "Blanken Avenue",,,,way
 "Bliss Road",,,,way
 "Blue Greenway",,,,way
-"Bluxome Street",,,,way
 "Blythdale Avenue",,,,way
 "Boardman Place",,,,way
 "Bocana Street",,,,way
@@ -397,7 +392,6 @@ Broadway,,,,way
 "Cambridge Street",,,,way
 "Camellia Avenue",,,,way
 "Cameo Way",,,,way
-"Cameron Way",,,,way
 "Camp Street",,,,way
 "Campbell Avenue",,,,way
 "Campus Lane",,,,way
@@ -700,7 +694,6 @@ Broadway,,,,way
 "El Verano Way",,,,way
 "Elgin Park",,,,way
 "Elim Street",,,,way
-"Elizabeth Street",,,,way
 "Elk Street",,,,way
 "Ellert Street",,,,way
 "Ellington Avenue",,,,way
@@ -847,7 +840,6 @@ Funston,,,,way
 "Gateview Court",,,,way
 "Gaven Street",,,,way
 "Gaviota Way",,,,way
-"Geary Street",,,,way
 "Gellert Drive",,,,way
 "Gen. Kennedy Avenue",,,,way
 "Gene Friend Way",,,,way
@@ -860,7 +852,6 @@ Funston,,,,way
 "Germania Street",,,,way
 "Getz Street",,,,way
 "Giants Drive",,,,way
-"Gilbert Street",,,,way
 "Gillette Avenue",,,,way
 "Gilman Avenue",,,,way
 "Gilroy Street",,,,way
@@ -953,7 +944,6 @@ Funston,,,,way
 "Havelock Street",,,,way
 "Havens Street",,,,way
 "Havenside Drive",,,,way
-"Hawes Street",,,,way
 "Hawkins Lane",,,,way
 "Hawthorne Street",,,,way
 "Hayes Street",,,,relation+way
@@ -967,7 +957,6 @@ Funston,,,,way
 "Hemway Terrace",,,,way
 "Henry Adams Street",,,,way
 "Henry Street",,,,way
-"Herb Caen Way",,,,way
 "Herbst Road",,,,way
 "Heritage Avenue",,,,way
 "Hermann Street",,,,way
@@ -1069,8 +1058,6 @@ Issleib,,,,way
 "Jeff Adachi Way",,,,way
 "Jennings Court",,,,way
 "Jennings Street",,,,way
-"Jessie Square",,,,way
-"Jessie Street",,,,way
 "John F Foran Freeway",,,,way
 "Johnstone Drive",,,,way
 "Jones Street",,,,way
@@ -1194,7 +1181,6 @@ Kalmanovitz,,,,way
 "Loehr Street",,,,way
 "Lois Lane",,,,way
 "Loma Vista Terrace",,,,way
-"Lombard Street",,,,way
 "Lomita Avenue",,,,way
 "London Street",,,,way
 "Lone Mountain Terrace",,,,way
@@ -1482,7 +1468,6 @@ Octavia,,,,way
 "Onique Lane",,,,way
 "Onondaga Avenue",,,,way
 "Opalo Lane",,,,way
-"Ora Way",,,,way
 "Orben Place",,,,way
 "Ord Court",,,,way
 "Ord Street",,,,way
@@ -1557,7 +1542,6 @@ Octavia,,,,way
 "Philosopher's Way",,,,way
 "Phoenix Terrace",,,,way
 "Piazza Angelo",,,,way
-"Pico Avenue",,,,way
 "Piedmont Street",,,,way
 "Pier 3 promenade",,,,way
 "Pier 39",,,,way
@@ -1660,7 +1644,6 @@ Octavia,,,,way
 "Rhode Island Street",,,,way
 "Rice Street",,,,way
 "Richards Circle",,,,way
-"Richardson Avenue",,,,way
 "Richland Avenue",,,,way
 "Rickard Street",,,,way
 "Rico Way",,,,way
@@ -1844,7 +1827,6 @@ Octavia,,,,way
 "South Ridge Trail",,,,way
 "South Stadium Drive",,,,way
 "South Van Horn Lane",,,,way
-"South Van Ness Avenue",,,,way
 "Southern Connector Street",,,,way
 "Southern Embarcadero Freeway",,,,way
 "Southern Heights Avenue",,,,way
@@ -1898,7 +1880,6 @@ Octavia,,,,way
 "Surrey Street",,,,way
 "Sussex Street",,,,way
 "Sutro Baths Upper Trail",,,,way
-"Sutro Heights Avenue",,,,way
 "Sutro Tower Trail",,,,way
 "Sutter Street",,,,relation
 "Sweeny Street",,,,way

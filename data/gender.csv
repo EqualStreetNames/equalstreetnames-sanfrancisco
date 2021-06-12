@@ -1,14 +1,24 @@
 name,source,gender,wikidata,type
+"Arballo Drive",wikidata,F,Q64819900,way
+"Cameron Way",wikidata,F,Q5295343,way
+"Elizabeth Street",wikidata,F,Q107174535,way
 "Frida Kahlo Way",wikidata,F,Q5588,way
+"Jessie Square",wikidata,F,Q6187624,way
+"Jessie Street",wikidata,F,Q6187624,way
+"Ora Way",wikidata,F,Q107173832,way
 "Rosa Parks Lane",wikidata,F,Q41921,way
 "Alemany Boulevard",wikidata,M,Q3815531,way
 "Alvarado Street",wikidata,M,Q3187571,way
+"Anza Avenue",wikidata,M,Q727612,way
 "Anza Street",wikidata,M,Q727612,way
 "Arguello Boulevard",wikidata,M,Q6292028,way
+"Baker Court",wikidata,M,Q131929,way
 "Baker Street",wikidata,M,Q131929,way
 "Balboa Street",wikidata,M,Q19080,way
 "Bartlett Street",wikidata,M,Q7971654,way
 "Beale Street",wikidata,M,Q1292161,way
+"Belden Place",wikidata,M,Q15511960,way
+"Bluxome Street",wikidata,M,Q107178240,way
 "Bonifacio Street",wikidata,M,Q313604,way
 "Bradford Street",wikidata,M,Q1210370,way
 "Brannan Street",wikidata,M,Q936075,relation+way
@@ -34,9 +44,13 @@ name,source,gender,wikidata,type
 "Fremont Street",wikidata,M,Q169011,way
 "Fulton Street",wikidata,M,Q192496,way
 "Geary Boulevard",wikidata,M,Q795522,way
+"Geary Street",wikidata,M,Q795522,way
+"Gilbert Street",wikidata,M,Q1292340,way
 "Grant Avenue",wikidata,M,Q34836,way
 "Guerrero Street",wikidata,M,Q5483428,way
 "Harding Road",wikidata,M,Q35286,way
+"Hawes Street",wikidata,M,Q107178427,way
+"Herb Caen Way",wikidata,M,Q3091058,way
 "Howard Street",wikidata,M,Q16066217,way
 "Ingalls Street",wikidata,M,Q1627021,way
 "Irving Street",wikidata,M,Q181667,way
@@ -85,9 +99,11 @@ name,source,gender,wikidata,type
 "Otis Street",wikidata,M,Q16065346,way
 "Pacheco Street",wikidata,M,Q104179574,way
 "Palou Avenue",wikidata,M,Q2636220,way
+"Pico Avenue",wikidata,M,Q949282,way
 "Pierce Street",wikidata,M,Q12312,way
 "Polk Street",wikidata,M,Q11891,way
 "Portola Drive",wikidata,M,Q461023,way
+"Richardson Avenue",wikidata,M,Q4818023,way
 "Rivera Street",wikidata,M,Q3742952,way
 "Rizal Street",wikidata,M,Q1500,way
 "Rolph Street",wikidata,M,Q878728,way
@@ -97,10 +113,12 @@ name,source,gender,wikidata,type
 "Sheridan Street",wikidata,M,Q355452,way
 "Simonds Loop",wikidata,M,Q5544201,way
 "Sloat Boulevard",wikidata,M,Q634931,way
+"South Van Ness Avenue",wikidata,M,Q6144602,way
 "Starr King Way",wikidata,M,Q1590865,way
 "Steuart Street",wikidata,M,Q360401,way
 "Stevenson Street",wikidata,M,Q6272891,relation+way
 "Stockton Street",wikidata,M,Q878374,way
+"Sutro Heights Avenue",wikidata,M,Q214461,way
 "Taraval Street",wikidata,M,Q7512184,way
 "Taylor Street",wikidata,M,Q11896,way
 "Treat Avenue",wikidata,M,Q18228005,way
