@@ -13,40 +13,56 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
+10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
+11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
+12,,,,way
 "123 Market Plaza",,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
+13,,,,way
 "13th Street",,,,way
+14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
+15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
+2,,,,way
+16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
+17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
+18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
+19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "19th Street;Mono Street",,,,way
 "1st Street",,,,way
-2,,,,way
+20,,,,way
 "20th Avenue",,,,way
 "20th Street",,,,way
+21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
+22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
+23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
+24,,,,way
 "24th Avenue",,,,way
 "24th Street",,,,way
+25,,,,way
 "25th Avenue",,,,way
 "25th Avenue North",,,,way
 "25th Street",,,,way
@@ -88,37 +104,21 @@ name,source,gender,wikidata,type
 "4th Avenue",,,,way
 "4th Street",,,,way
 5,,,,way
-6,,,,way
-7,,,,way
-8,,,,way
-9,,,,way
-10,,,,way
-11,,,,way
-12,,,,way
-13,,,,way
-14,,,,way
-15,,,,way
-16,,,,way
-17,,,,way
-18,,,,way
-19,,,,way
-20,,,,way
-21,,,,way
-22,,,,way
-23,,,,way
-24,,,,way
-25,,,,way
 "560 Mission Street Plaza",,,,way
 "5th Avenue",,,,way
 "5th Street",,,,way
 "5th Street Plaza",,,,way
+6,,,,way
 "611 Folsom Street Plaza",,,,way
 "6th Avenue",,,,way
 "6th Street",,,,way
+7,,,,way
 "7th Avenue",,,,way
 "7th Street",,,,way
+8,,,,way
 "8th Avenue",,,,way
 "8th Street",,,,way
+9,,,,way
 "9th Avenue",,,,way
 "9th Street",,,,relation+way
 "A Dock",,,,way
@@ -1444,7 +1444,6 @@ Kalmanovitz,,,,way
 "Oak Grove Street",,,,way
 "Oak Park Drive",,,,way
 "Oak Street",,,,way
-"Oak Woodlands Trail",,,,way
 "Oakdale Avenue",,,,way
 "Oakhurst Lane",,,,way
 "Oakwood Street",,,,way
@@ -1539,6 +1538,7 @@ Octavia,,,,way
 "Peter Yorke Way",,,,way
 "Peters Avenue",,,,way
 "Phelps Street",,,,way
+"Phil Arnold Trail",,,,way
 "Philosopher's Way",,,,way
 "Phoenix Terrace",,,,way
 "Piazza Angelo",,,,way
@@ -1660,7 +1660,6 @@ Octavia,,,,way
 "Rivoli Street",,,,way
 "Roanoke Street",,,,way
 "Robblee Avenue",,,,way
-"Robert C Levy Tunnel",,,,way
 "Robinhood Drive",,,,way
 "Robinson Drive",,,,way
 "Robinson Street",,,,way
@@ -1781,7 +1780,6 @@ Octavia,,,,way
 "Seward Street",,,,way
 "Seymour Street",,,,way
 "Shafter Road",,,,way
-"Shakespeare Garden",,,,way
 "Shakespeare Street",,,,way
 "Sharon Street",,,,way
 "Sharp Place",,,,way
