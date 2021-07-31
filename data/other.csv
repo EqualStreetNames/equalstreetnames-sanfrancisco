@@ -31,7 +31,6 @@ name,source,gender,wikidata,type
 15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
-2,,,,way
 16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
@@ -47,6 +46,7 @@ name,source,gender,wikidata,type
 "19th Street",,,,relation+way
 "19th Street;Mono Street",,,,way
 "1st Street",,,,way
+2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Street",,,,way
