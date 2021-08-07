@@ -13,9 +13,10 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
-10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
+2,,,,way
+10,,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
@@ -35,30 +36,45 @@ name,source,gender,wikidata,type
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
+"16th Street, N. Sidewalk",,,,way
+"16th Street, S. Sidewalk",,,,way
 17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
+"17th Street, N. Sidewalk",,,,way
+"17th Street, S. Sidewalk",,,,way
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
+"18th Street, N. Sidewalk",,,,way
+"18th Street, S. Sidewalk",,,,way
 19,,,,way
 "19th Avenue",,,,way
+"19th Avenue S. Sidewalk",,,,way
+"19th Avenue, N. Sidewalk",,,,way
 "19th Street",,,,relation+way
 "19th Street;Mono Street",,,,way
 "1st Street",,,,way
-2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Street",,,,way
+"20th Street, N. Sidewalk",,,,way
+"20th Street, S. Sidewalk",,,,way
 21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
+"21st Street, N. Sidewalk",,,,way
+"21st Street, S. Sidewalk",,,,way
 22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
+"22nd Street, N. Sidewalk",,,,way
+"22nd Street, S. Sidewalk",,,,way
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
+"23rd Street, N. Sidewalk",,,,way
+"23rd Street, S. Sidewalk",,,,way
 24,,,,way
 "24th Avenue",,,,way
 "24th Street",,,,way
@@ -402,6 +418,8 @@ Broadway,,,,way
 "Capistrano Avenue",,,,way
 "Capitol Avenue",,,,way
 "Capp Street",,,,way
+"Capp Street, E. Sidewalk",,,,way
+"Capp Street, W. Sidewalk",,,,way
 "Capra Way",,,,way
 "Cardenas Avenue",,,,way
 "Cargo Way",,,,way
@@ -440,6 +458,8 @@ Broadway,,,,way
 "Ceres Street",,,,way
 "Cerritos Avenue",,,,way
 "Cervantes Boulevard",,,,way
+"Cesar Chavez Street, N. Sidewalk",,,,way
+"Cesar Chavez Street, S. Sidewalk",,,,way
 "Chabot Terrace",,,,way
 "Chain of Lakes Drive",,,,way
 "Chain of Lakes Drive East",,,,way
@@ -781,6 +801,8 @@ Broadway,,,,way
 "Flower Street",,,,way
 "Foerster Street",,,,way
 "Fog Bridge",,,,way
+"Folsom Street, E. Sidewalk",,,,way
+"Folsom Street, W. Sidewalk",,,,way
 "Folsom Stroll",,,,way
 "Font Boulevard",,,,way
 "Foote Avenue",,,,way
@@ -1343,6 +1365,8 @@ Kalmanovitz,,,,way
 "Mission Bay Drive",,,,way
 "Mission Rock Street",,,,way
 "Mission Street",,,,relation+way
+"Mission Street, E. Sidewalk",,,,way
+"Mission Street, W. Sidewalk",,,,way
 "Mississippi Street",,,,way
 "Missouri Street",,,,way
 "Mistral Street",,,,way
@@ -1796,6 +1820,8 @@ Octavia,,,,way
 "Shore View Avenue",,,,way
 "Short Street",,,,way
 "Shotwell Street",,,,way
+"Shotwell Street, E. Sidewalk",,,,way
+"Shotwell Street, W. Sidewalk",,,,way
 "Shrader Street",,,,way
 "Shriners Avenue",,,,way
 "Sibert Lane",,,,way
@@ -1825,6 +1851,8 @@ Octavia,,,,way
 "South Ridge Trail",,,,way
 "South Stadium Drive",,,,way
 "South Van Horn Lane",,,,way
+"South Van Ness Avenue, E. Sidewalk",,,,way
+"South Van Ness Avenue, W. Sidewalk",,,,way
 "Southern Connector Street",,,,way
 "Southern Embarcadero Freeway",,,,way
 "Southern Heights Avenue",,,,way
