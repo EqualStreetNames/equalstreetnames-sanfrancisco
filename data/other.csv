@@ -14,9 +14,9 @@ name,source,gender,wikidata,type
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
 "10th Avenue",,,,way
-"10th Street",,,,way
 2,,,,way
 10,,,,way
+"10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
@@ -50,10 +50,9 @@ name,source,gender,wikidata,type
 "18th Street, S. Sidewalk",,,,way
 19,,,,way
 "19th Avenue",,,,way
-"19th Avenue S. Sidewalk",,,,way
-"19th Avenue, N. Sidewalk",,,,way
 "19th Street",,,,relation+way
-"19th Street;Mono Street",,,,way
+"19th Street, N. Sidewalk",,,,way
+"19th Street, S. Sidewalk",,,,way
 "1st Street",,,,way
 20,,,,way
 "20th Avenue",,,,way
