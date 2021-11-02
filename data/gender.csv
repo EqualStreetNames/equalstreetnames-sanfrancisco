@@ -33,6 +33,7 @@ name,source,gender,wikidata,type
 "Cole Street",wikidata,M,Q432348,way
 "Coleman Street",wikidata,M,Q3568993,way
 "Colin P. Kelly Junior Street",wikidata,M,Q4392306,way
+"Cyril Magnin Street",wikidata,M,Q5200806,way
 "Davis Street",wikidata,M,Q8011813,way
 "De Haro Street",wikidata,M,Q5484128,way
 "Evans Avenue",wikidata,M,Q1323551,way
@@ -48,6 +49,7 @@ name,source,gender,wikidata,type
 "Gilbert Street",wikidata,M,Q1292340,way
 "Grant Avenue",wikidata,M,Q34836,way
 "Guerrero Street",wikidata,M,Q5483428,way
+"Haight Street",wikidata,M,Q5722447,relation+way
 "Harding Road",wikidata,M,Q35286,way
 "Hawes Street",wikidata,M,Q107178427,way
 "Herb Caen Way",wikidata,M,Q3091058,way

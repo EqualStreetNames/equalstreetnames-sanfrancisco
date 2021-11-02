@@ -13,9 +13,8 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
-"10th Avenue",,,,way
-2,,,,way
 10,,,,way
+"10th Avenue",,,,way
 "10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
@@ -29,20 +28,21 @@ name,source,gender,wikidata,type
 14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
-15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
-16,,,,way
-"16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
+"17th Street",,,,way
+"17th Street, N. Sidewalk",,,,way
+"17th Street, S. Sidewalk",,,,way
+2,,,,way
+15,,,,way
+16,,,,way
+"16th Avenue",,,,way
 "16th Street, N. Sidewalk",,,,way
 "16th Street, S. Sidewalk",,,,way
 17,,,,way
 "17th Avenue",,,,way
-"17th Street",,,,way
-"17th Street, N. Sidewalk",,,,way
-"17th Street, S. Sidewalk",,,,way
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
@@ -549,6 +549,7 @@ Broadway,,,,way
 "Constanso Way",,,,way
 "Convention Plaza",,,,way
 "Cook Street",,,,way
+"Cooper Alley",,,,way
 "Cora Street",,,,way
 "Coral Road",,,,way
 "Coralino Lane",,,,way
@@ -602,7 +603,6 @@ Broadway,,,,way
 "Custer Avenue",,,,way
 "Cutler Avenue",,,,way
 "Cuvier Street",,,,way
-"Cyril Magnin Street",,,,way
 "Cyrus Place",,,,way
 "D Dock",,,,way
 "D Street",,,,way
@@ -932,7 +932,6 @@ Funston,,,,way
 "H Street",,,,way
 "Habitat Terrace",,,,way
 "Hahn Street",,,,way
-"Haight Street",,,,relation+way
 "Hale Street",,,,way
 "Halibut Court",,,,way
 "Halleck Street",,,,way
@@ -1420,6 +1419,7 @@ Kalmanovitz,,,,way
 "Napoleon Street",,,,way
 "Natick Street",,,,way
 "Natoma Street",,,,way
+"Nauman Road",,,,way
 "Nautilus Court",,,,way
 "Navajo Avenue",,,,way
 "Navy Road",,,,way
@@ -1526,7 +1526,6 @@ Octavia,,,,way
 "Paramount Terrace",,,,way
 "Paris Street",,,,way
 "Park Boulevard",,,,way
-"Park Boulevard Trail",,,,way
 "Park Hill Avenue",,,,way
 "Park Presidio Boulevard",,,,way
 "Park Presidio Bypass Drive",,,,way
