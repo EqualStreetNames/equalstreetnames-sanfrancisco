@@ -13,36 +13,27 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
-10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
-11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
-12,,,,way
 "123 Market Plaza",,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
-13,,,,way
 "13th Street",,,,way
-14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
-15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
-16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
 "16th Street, N. Sidewalk",,,,way
 "16th Street, S. Sidewalk",,,,way
-17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
 "17th Street, N. Sidewalk",,,,way
 "17th Street, S. Sidewalk",,,,way
-18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
 "18th Street, N. Sidewalk",,,,way
@@ -53,6 +44,15 @@ name,source,gender,wikidata,type
 "19th Street, S. Sidewalk",,,,way
 "1st Street",,,,way
 2,,,,way
+10,,,,way
+11,,,,way
+12,,,,way
+13,,,,way
+14,,,,way
+15,,,,way
+16,,,,way
+17,,,,way
+18,,,,way
 19,,,,way
 20,,,,way
 "20th Avenue",,,,way
@@ -609,6 +609,7 @@ Broadway,,,,way
 "Dakota Street",,,,way
 "Dale Place",,,,way
 "Dalewood Way",,,,way
+"Dan's Lost Trail",,,,way
 "Danton Street",,,,way
 "Danvers Street",,,,way
 "Darien Way",,,,way
@@ -1525,6 +1526,7 @@ Octavia,,,,way
 "Paramount Terrace",,,,way
 "Paris Street",,,,way
 "Park Boulevard",,,,way
+"Park Boulevard Trail",,,,way
 "Park Hill Avenue",,,,way
 "Park Presidio Boulevard",,,,way
 "Park Presidio Bypass Drive",,,,way
