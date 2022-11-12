@@ -52,7 +52,7 @@ name,source,gender,wikidata,type
 "Haight Street",wikidata,M,Q5722447,relation+way
 "Harding Road",wikidata,M,Q35286,way
 "Hawes Street",wikidata,M,Q107178427,way
-"Herb Caen Way",wikidata,M,Q3091058,way
+"Herb Caen Way...",wikidata,M,Q3091058,way
 "Howard Street",wikidata,M,Q16066217,way
 "Ingalls Street",wikidata,M,Q1627021,way
 "Irving Street",wikidata,M,Q181667,way
@@ -63,6 +63,8 @@ name,source,gender,wikidata,type
 "Jerrold Avenue",wikidata,M,Q327049,way
 "John F Kennedy Drive",wikidata,M,Q9696,way
 "John F Shelley Drive",wikidata,M,Q1701740,way
+"John F. Kennedy Drive",wikidata,M,Q9696,way
+"John F. Kennedy Promenade",wikidata,M,Q9696,way
 "John Muir Drive",wikidata,M,Q379580,way
 "Joost Avenue",wikidata,M,Q106965821,way
 "Juan Bautista Circle",wikidata,M,Q727612,way

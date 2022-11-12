@@ -4,76 +4,64 @@ name,source,gender,wikidata,type
 "Chattanooga Street",wikidata,,Q1477050,way
 "Dolores Street",wikidata,,Q1000321,way
 "Fair Oaks Street",wikidata,,Q1550466,way
+"Golden Gate Bridge",wikidata,,Q244753,way
 "Jersey Street",wikidata,,Q1408,way
 "Lombard Street",wikidata,,Q15242635,way
 "Ramona Avenue",wikidata,,Q2326609,way
 "San Francisco – Oakland Bay Bridge",wikidata,,Q62;Q17042;Q232264,way
 "Twin Peaks Boulevard",wikidata,,Q1344297,way
 "United Nations Plaza",wikidata,,Q1065,relation
+"Vicha Ratanapakdee Way",wikidata,,Q105821431,way
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
+10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
+11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
+12,,,,way
 "123 Market Plaza",,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
+13,,,,way
 "13th Street",,,,way
+14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
+2,,,,way
+3,,,,way
+15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
+16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
-"16th Street, N. Sidewalk",,,,way
-"16th Street, S. Sidewalk",,,,way
+17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
-"17th Street, N. Sidewalk",,,,way
-"17th Street, S. Sidewalk",,,,way
+18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
-"18th Street, N. Sidewalk",,,,way
-"18th Street, S. Sidewalk",,,,way
+19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
-"19th Street, N. Sidewalk",,,,way
-"19th Street, S. Sidewalk",,,,way
 "1st Street",,,,way
-2,,,,way
-10,,,,way
-11,,,,way
-12,,,,way
-13,,,,way
-14,,,,way
-15,,,,way
-16,,,,way
-17,,,,way
-18,,,,way
-19,,,,way
 20,,,,way
 "20th Avenue",,,,way
+"20th Avenue Entrance",,,,way
 "20th Street",,,,way
-"20th Street, N. Sidewalk",,,,way
-"20th Street, S. Sidewalk",,,,way
 21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
-"21st Street, N. Sidewalk",,,,way
-"21st Street, S. Sidewalk",,,,way
 22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
-"22nd Street, N. Sidewalk",,,,way
-"22nd Street, S. Sidewalk",,,,way
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
-"23rd Street, N. Sidewalk",,,,way
-"23rd Street, S. Sidewalk",,,,way
 24,,,,way
 "24th Avenue",,,,way
 "24th Street",,,,way
@@ -91,7 +79,6 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
-3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -121,6 +108,7 @@ name,source,gender,wikidata,type
 5,,,,way
 "560 Mission Street Plaza",,,,way
 "5th Avenue",,,,way
+"5th Avenue Entrance",,,,way
 "5th Street",,,,way
 "5th Street Plaza",,,,way
 6,,,,way
@@ -157,7 +145,6 @@ name,source,gender,wikidata,type
 "Alabama Street",,,,way
 "Alameda Street",,,,way
 "Alana Way",,,,way
-"Albatross Court",,,,way
 "Alberta Street",,,,way
 "Albion Street",,,,way
 "Alcatraz Wharf",,,,way
@@ -226,7 +213,6 @@ name,source,gender,wikidata,type
 "Aspen Court",,,,way
 "Atalaya Terrace",,,,way
 "Athens Street",,,,way
-"Atoll Circle",,,,way
 "Augusta Street",,,,way
 "Avalon Avenue",,,,way
 "Avenue B",,,,way
@@ -239,7 +225,6 @@ name,source,gender,wikidata,type
 "Avenue M",,,,way
 "Avenue N",,,,way
 "Avenue of the Palms",,,,way
-"Avery Street",,,,way
 "Avila Street",,,,way
 "Avoca Alley",,,,way
 "Avocet Way",,,,way
@@ -272,6 +257,7 @@ name,source,gender,wikidata,type
 "Battle of the Bulge Memorial Trail",,,,way
 "Bay Area Ridge Trail",,,,way
 "Bay Street",,,,way
+"Bay Trail",,,,way
 "Bay View Street",,,,way
 "Bayshore Blvd",,,,way
 "Bayshore Boulevard",,,,way
@@ -340,9 +326,11 @@ name,source,gender,wikidata,type
 "Bonview Street",,,,way
 "Borica Street",,,,way
 "Bostonship Plaza",,,,way
+"Boswell Street",,,,way
 "Bosworth Street",,,,way
 "Boutwell Street",,,,way
 "Bowdoin Street",,,,way
+"Bowl Drive",,,,way
 "Bowley Street",,,,way
 "Bowling Green Drive",,,,way
 "Bowman Court",,,,way
@@ -372,10 +360,12 @@ Broadway,,,,way
 "Brotherhood Way",,,,way
 "Brown Street",,,,way
 "Bruce Avenue",,,,way
+"Bruce's Stairs",,,,way
 "Brumiss Terrace",,,,way
 "Brunswick Street",,,,way
 "Brussels Street",,,,way
 "Bucareli Drive",,,,way
+"Buchanan Mall",,,,way
 "Buchanan Street Mall",,,,relation
 "Buckingham Way",,,,way
 "Buena Vista Avenue East",,,,way
@@ -416,8 +406,6 @@ Broadway,,,,way
 "Capistrano Avenue",,,,way
 "Capitol Avenue",,,,way
 "Capp Street",,,,way
-"Capp Street, E. Sidewalk",,,,way
-"Capp Street, W. Sidewalk",,,,way
 "Capra Way",,,,way
 "Cardenas Avenue",,,,way
 "Cargo Way",,,,way
@@ -626,6 +614,7 @@ Broadway,,,,way
 "De Wolf Street",,,,way
 "Dearborn Street",,,,way
 "Decatur Street",,,,way
+"Decatur Way",,,,way
 "Dedman Court",,,,way
 "Deems Road",,,,way
 "Dehon Street",,,,way
@@ -670,6 +659,7 @@ Broadway,,,,way
 "Double Rock Street",,,,way
 "Douglass Street",,,,way
 "Downey Street",,,,way
+"Dr. Rolland and Kathryn Lowe Community Bridge",,,,way
 "Dr. Tom Waddell Place",,,,way
 "Drake Street",,,,way
 "Drum Bridge",,,,way
@@ -838,7 +828,6 @@ Broadway,,,,way
 "Front Street",,,,way
 "Fuente Avenue",,,,way
 "Fulton Trail",,,,way
-Funston,,,,way
 "Funston Avenue",,,,way
 "Funston Road",,,,way
 "G Dock",,,,way
@@ -872,6 +861,7 @@ Funston,,,,way
 "George Court",,,,way
 "Germania Street",,,,way
 "Getz Street",,,,way
+"Ghost Trail",,,,way
 "Giants Drive",,,,way
 "Gillette Avenue",,,,way
 "Gilman Avenue",,,,way
@@ -895,7 +885,6 @@ Funston,,,,way
 "Goldberg Lane",,,,way
 "Golden Court",,,,way
 "Golden Gate Avenue",,,,way
-"Golden Gate Bridge",,,,way
 "Golden Gate Bridge East Sidewalk",,,,way
 "Golden Gate Bridge West Sidewalk",,,,way
 "Golden Gate Promenade",,,,way
@@ -915,6 +904,7 @@ Funston,,,,way
 "Grattan Street",,,,way
 "Graystone Terrace",,,,way
 "Great Highway",,,,way
+"Great Highway Extension",,,,way
 "Green Street",,,,way
 "Green Tunnel",,,,way
 "Greenough Avenue",,,,way
@@ -986,6 +976,7 @@ Funston,,,,way
 "Hickory Street",,,,way
 "Hidalgo Terrace",,,,way
 "Hidden Garden Steps",,,,way
+"High Five Zone",,,,way
 "High Street",,,,way
 "Highland Avenue",,,,way
 "Higuera Avenue",,,,way
@@ -1144,6 +1135,7 @@ Kalmanovitz,,,,way
 "Lamartine Street",,,,way
 "Lancaster Lane",,,,way
 "Landers Street",,,,way
+"Lands End Trail",,,,way
 "Langton Street",,,,way
 "Lansdale Avenue",,,,way
 "Lansing Street",,,,way
@@ -1193,7 +1185,6 @@ Kalmanovitz,,,,way
 "Lobby Shops",,,,way
 "Lobos Creek Valley Path",,,,way
 "Lobos Creek Valley Trail",,,,way
-"Lobos Creek Valley to Wedemeyer Street",,,,way
 "Lobos Street",,,,way
 "Locksley Avenue",,,,way
 "Lockwood Street",,,,way
@@ -1213,6 +1204,7 @@ Kalmanovitz,,,,way
 "Los Palmos Drive",,,,way
 "Lottie Bennett Lane",,,,way
 "Louisburg Street",,,,way
+"Louisiana Street",,,,way
 "Lovers' Lane",,,,way
 "Lovers' Lane Bridge",,,,way
 "Lowell Street",,,,way
@@ -1236,6 +1228,7 @@ Kalmanovitz,,,,way
 "Mabini Street",,,,way
 "Mabrey Court",,,,way
 "Mac Arthur Avenue",,,,way
+"MacArthur Avenue",,,,way
 "Macalla Road",,,,way
 "Macarthur Avenue",,,,way
 "Macedonia Street",,,,way
@@ -1282,10 +1275,11 @@ Kalmanovitz,,,,way
 "Marston Avenue",,,,way
 "Martha Avenue",,,,way
 "Martin Avenue",,,,way
-"Martinez Street",,,,way
+"Martin Luther King Junior Dtive",,,,way
 "Marvel Court",,,,way
 "Marview Way",,,,way
 "Marx Meadow Drive",,,,way
+"Mary Street",,,,way
 "Mary Teresa Street",,,,way
 "Maryland Street",,,,way
 "Mason Court",,,,way
@@ -1329,6 +1323,7 @@ Kalmanovitz,,,,way
 "Mercury Street",,,,way
 "Merlin Street",,,,way
 "Merriam Lane",,,,way
+"Merrie Way",,,,way
 "Merrill Street",,,,way
 "Merrimac Street",,,,way
 "Merritt Street",,,,way
@@ -1384,6 +1379,7 @@ Kalmanovitz,,,,way
 "Montezuma Street",,,,way
 "Monticello Street",,,,way
 "Monument Way",,,,way
+"Moonwalk Stairs",,,,way
 "Moore Lane",,,,way
 "Moore Place",,,,way
 "Moraga Avenue",,,,way
@@ -1420,7 +1416,6 @@ Kalmanovitz,,,,way
 "Natick Street",,,,way
 "Natoma Street",,,,way
 "Nauman Road",,,,way
-"Nautilus Court",,,,way
 "Navajo Avenue",,,,way
 "Navy Road",,,,way
 "Naylor Street",,,,way
@@ -1440,12 +1435,11 @@ Kalmanovitz,,,,way
 "Nibbi Court",,,,way
 "Nichols Way",,,,way
 "Nido Avenue",,,,way
-"Nike Road",,,,way
 "Nimitz Avenue",,,,way
-"Nimitz Drive",,,,way
 "Nordhoff Street",,,,way
 "Normandie Terrace",,,,way
 "North 15th Avenue",,,,way
+"North Creek Trail",,,,way
 "North Drive",,,,way
 "North Gate Road",,,,way
 "North Hughes Lane",,,,way
@@ -1494,7 +1488,6 @@ Octavia,,,,way
 "Ord Court",,,,way
 "Ord Street",,,,way
 "Ordway Street",,,,way
-"Oriente Street",,,,way
 "Oriole Way",,,,way
 "Orizaba Avenue",,,,way
 "Orsi Circle",,,,way
@@ -1585,6 +1578,7 @@ Octavia,,,,way
 "Point Lobos Avenue",,,,way
 "Polaris Way",,,,way
 "Pomona Street",,,,way
+"Pompei Circle",,,,way
 "Pond Street",,,,way
 "Pontiac Street",,,,way
 "Pope Road",,,,way
@@ -1594,7 +1588,7 @@ Octavia,,,,way
 "Portal Path",,,,way
 "Porter Street",,,,way
 "Portola Street",,,,way
-"Portsmouth Square",,,,way
+"Portsmouth Square",,,,relation
 "Post Street",,,,relation+way
 "Potomac Street",,,,way
 "Potrero Avenue",,,,way
@@ -1732,7 +1726,6 @@ Octavia,,,,way
 "Saint Joseph's Avenue",,,,way
 "Saint Louis Alley",,,,way
 "Saint Mary's Avenue",,,,way
-"Saint Mary's Square",,,,way
 "Sal Street",,,,way
 "Sala Terrace",,,,way
 "Salinas Avenue",,,,way
@@ -1759,6 +1752,7 @@ Octavia,,,,way
 "San Pablo Avenue",,,,way
 "San Rafael Way",,,,way
 "San Ramon Way",,,,way
+"Sanches Street",,,,way
 "Sanchez Street",,,,way
 "Sand Ladder",,,,way
 "Sandpiper Cove Way",,,,way
@@ -1839,9 +1833,9 @@ Octavia,,,,way
 "Smith Lane",,,,way
 "Sola Avenue",,,,way
 "Somerset Street",,,,way
-"Sonora Lane",,,,way
 "Sotelo Avenue",,,,way
 "Soule Lane",,,,way
+"South Creek Trail",,,,way
 "South Drive",,,,way
 "South Hill Boulevard",,,,way
 "South Hughes Lane",,,,way
@@ -1888,6 +1882,7 @@ Octavia,,,,way
 "Stoneyford Avenue",,,,way
 "Storey Avenue",,,,way
 "Storrie Street",,,,way
+"Stow Lake Drive",,,,way
 "Stratford Drive",,,,way
 "Striped Bass Street",,,,way
 "Sturgeon Street",,,,way
@@ -1935,7 +1930,7 @@ Octavia,,,,way
 "The Embarcadero",,,,way
 "The Esplanade",,,,way
 "The Nave",,,,way
-"The Polo Field Cycling Track",,,,way
+"The Quad",,,,way
 "Theresa Street",,,,way
 "Thomas Avenue",,,,way
 "Thomas Mellon Circle",,,,way
@@ -2011,6 +2006,7 @@ Octavia,,,,way
 "Van Buren Street",,,,way
 "Van Dyke Avenue",,,,way
 "Van Keuran Avenue",,,,way
+"Van Ness Bus Rapid Transit",,,,way
 "Vandewater Street",,,,way
 "Varela Avenue",,,,way
 "Vasquez Avenue",,,,way
@@ -2043,6 +2039,7 @@ Octavia,,,,way
 "Wallace Avenue",,,,way
 "Wallen Street",,,,way
 "Waller Street",,,,way
+"Waller Street Skatepark",,,,way
 "Walnut Street",,,,way
 "Walter Street",,,,way
 "Walter U. Lum Place",,,,way
@@ -2125,7 +2122,6 @@ Octavia,,,,way
 "Yerba Buena Drive",,,,way
 "Yerba Buena Lane",,,,way
 "Yerba Buena Public Square",,,,way
-"Yerba Buena Road",,,,way
 "Yorba Lane",,,,way
 "York Street",,,,way
 "Yosemite Avenue",,,,way
