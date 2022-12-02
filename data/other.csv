@@ -30,8 +30,6 @@ name,source,gender,wikidata,type
 14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
-2,,,,way
-3,,,,way
 15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
@@ -49,6 +47,7 @@ name,source,gender,wikidata,type
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
+2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -79,6 +78,7 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
+3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -330,7 +330,6 @@ name,source,gender,wikidata,type
 "Bosworth Street",,,,way
 "Boutwell Street",,,,way
 "Bowdoin Street",,,,way
-"Bowl Drive",,,,way
 "Bowley Street",,,,way
 "Bowling Green Drive",,,,way
 "Bowman Court",,,,way
@@ -921,6 +920,7 @@ Broadway,,,,way
 "Guy Place",,,,way
 "H Street",,,,way
 "Habitat Terrace",,,,way
+"Hagiwara Tea Garden Drive",,,,way
 "Hahn Street",,,,way
 "Hale Street",,,,way
 "Halibut Court",,,,way
@@ -1498,6 +1498,7 @@ Octavia,,,,way
 "Otsego Avenue",,,,relation
 "Ottawa Avenue",,,,way
 "Outback Trail",,,,way
+"Overlook Drive",,,,way
 "Owens Street",,,,way
 "Oxford Street",,,,way
 "Ozbourn Court",,,,way
