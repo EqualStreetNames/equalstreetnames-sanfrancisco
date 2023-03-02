@@ -37,6 +37,7 @@ name,source,gender,wikidata,type
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
+2,,,,way
 17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
@@ -47,7 +48,6 @@ name,source,gender,wikidata,type
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
-2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -106,6 +106,7 @@ name,source,gender,wikidata,type
 "4th Avenue",,,,way
 "4th Street",,,,way
 5,,,,way
+"50 Beale Street Plaza",,,,way
 "560 Mission Street Plaza",,,,way
 "5th Avenue",,,,way
 "5th Avenue Entrance",,,,way
@@ -269,7 +270,6 @@ name,source,gender,wikidata,type
 "Beach Street",,,,way
 "Beachmont Drive",,,,way
 "Beacon Street",,,,way
-"Beale Street Plaza",,,,way
 "Beatrice Lane",,,,way
 "Beaumont Avenue",,,,way
 "Beaver Street",,,,way
@@ -303,6 +303,7 @@ name,source,gender,wikidata,type
 "Bertie Minor Lane",,,,way
 "Bertita Street",,,,way
 "Bessie Street",,,,way
+"Beulah Street",,,,way
 "Beverly Street",,,,way
 "Bill Walsh Way",,,,way
 "Birch Street",,,,way
@@ -768,6 +769,7 @@ Broadway,,,,way
 "Felton Street",,,,way
 "Fernandez Street",,,,way
 "Fernwood Drive",,,,way
+"Ferry Plaza",,,,way
 "Filbert Steps",,,,way
 "Filbert Street",,,,way
 "Fillmore Center Plaza",,,,way
@@ -1183,7 +1185,6 @@ Kalmanovitz,,,,way
 "Littlefield Terrace",,,,way
 "Lloyd Street",,,,way
 "Lobby Shops",,,,way
-"Lobos Creek Valley Path",,,,way
 "Lobos Creek Valley Trail",,,,way
 "Lobos Street",,,,way
 "Locksley Avenue",,,,way
@@ -1435,7 +1436,6 @@ Kalmanovitz,,,,way
 "Nibbi Court",,,,way
 "Nichols Way",,,,way
 "Nido Avenue",,,,way
-"Nike Road",,,,way
 "Nimitz Avenue",,,,way
 "Nordhoff Street",,,,way
 "Normandie Terrace",,,,way
@@ -1555,6 +1555,7 @@ Octavia,,,,way
 "Peter Macchiarini Steps",,,,way
 "Peter Yorke Way",,,,way
 "Peters Avenue",,,,way
+"Phelan Loop",,,,way
 "Phelps Street",,,,way
 "Phil Arnold Trail",,,,way
 "Philosopher's Way",,,,way
@@ -1795,6 +1796,7 @@ Octavia,,,,way
 "Seneca Avenue",,,,way
 "Sequoia Way",,,,way
 "Serrano Drive",,,,way
+"Seven Seas Avenue",,,,way
 "Seville Street",,,,way
 "Seward Street",,,,way
 "Seymour Street",,,,way
@@ -1946,6 +1948,7 @@ Octavia,,,,way
 "Timber Trail",,,,way
 "Tingley Street",,,,way
 "Tioga Avenue",,,,way
+"To Little Puffer Steam Train",,,,way
 "Tocoloma Avenue",,,,way
 "Todd Street",,,,way
 "Toland Street",,,,way
@@ -2125,6 +2128,7 @@ Octavia,,,,way
 "Yerba Buena Drive",,,,way
 "Yerba Buena Lane",,,,way
 "Yerba Buena Public Square",,,,way
+"Yerba Buena Road",,,,way
 "Yorba Lane",,,,way
 "York Street",,,,way
 "Yosemite Avenue",,,,way
