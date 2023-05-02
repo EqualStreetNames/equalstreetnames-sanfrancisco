@@ -27,17 +27,17 @@ name,source,gender,wikidata,type
 "12th Street",,,,way
 13,,,,way
 "13th Street",,,,way
-14,,,,way
 "14th Avenue",,,,way
-"14th Street",,,,way
 15,,,,way
 "15th Avenue",,,,way
-"15th Street",,,,way
 16,,,,way
-"16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
-"16th Street",,,,way
 2,,,,way
+14,,,,way
+"14th Street",,,,way
+"15th Street",,,,way
+"16th Avenue",,,,way
+"16th Street",,,,way
 17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
@@ -1118,6 +1118,7 @@ Kalmanovitz,,,,way
 "La Bica Way",,,,way
 "La Grande Avenue",,,,way
 "La Playa Street",,,,way
+"La Playa Terminal Loop",,,,way
 "La Salle Avenue",,,,way
 "Lafayette Street",,,,way
 "Laguna Honda Boulevard",,,,way
@@ -1245,7 +1246,7 @@ Kalmanovitz,,,,way
 "Main Drive",,,,way
 "Main Street",,,,way
 "Majestic Avenue",,,,way
-"Malcom X Plaza",,,,relation
+"Malcolm X Plaza",,,,relation
 "Mallorca Way",,,,way
 "Malta Drive",,,,way
 "Manchester Street",,,,way
@@ -1933,6 +1934,7 @@ Octavia,,,,way
 "The Agave Trail (Seasonal)",,,,way
 "The Embarcadero",,,,way
 "The Esplanade",,,,way
+"The Great Stairs at Grace Cathedral",,,,way
 "The Nave",,,,way
 "The Quad",,,,way
 "Theresa Street",,,,way
@@ -1963,6 +1965,7 @@ Octavia,,,,way
 "Townsend Street",,,,relation+way
 "Toyon Lane",,,,way
 "Trainor Street",,,,way
+"Transbay Bus Ramp",,,,way
 "Transverse Drive",,,,way
 "Transverse Drive Path",,,,way
 "Transverse Drive Trail",,,,way
