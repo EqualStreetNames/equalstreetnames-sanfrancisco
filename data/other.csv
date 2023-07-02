@@ -4,7 +4,7 @@ name,source,gender,wikidata,type
 "Chattanooga Street",wikidata,,Q1477050,way
 "Dolores Street",wikidata,,Q1000321,way
 "Fair Oaks Street",wikidata,,Q1550466,way
-"Golden Gate Bridge",wikidata,,Q244753,way
+"Golden Gate Bridge",wikidata,,Q220032,way
 "Jersey Street",wikidata,,Q1408,way
 "Lombard Street",wikidata,,Q15242635,way
 "Ramona Avenue",wikidata,,Q2326609,way
@@ -27,16 +27,15 @@ name,source,gender,wikidata,type
 "12th Street",,,,way
 13,,,,way
 "13th Street",,,,way
+14,,,,way
 "14th Avenue",,,,way
+"14th Street",,,,way
 15,,,,way
 "15th Avenue",,,,way
-16,,,,way
-"16th Avenue Tiled Steps",,,,way
-2,,,,way
-14,,,,way
-"14th Street",,,,way
 "15th Street",,,,way
+16,,,,way
 "16th Avenue",,,,way
+"16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
 17,,,,way
 "17th Avenue",,,,way
@@ -48,6 +47,9 @@ name,source,gender,wikidata,type
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
+2,,,,way
+3,,,,way
+4,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -78,7 +80,6 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
-3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -93,7 +94,6 @@ name,source,gender,wikidata,type
 "39th Avenue",,,,way
 "3rd Avenue",,,,way
 "3rd Street",,,,way
-4,,,,way
 "40th Avenue",,,,way
 "41st Avenue",,,,way
 "42nd Avenue",,,,way
@@ -1862,6 +1862,7 @@ Octavia,,,,way
 "Springfield Drive",,,,way
 "Sproule Lane",,,,way
 "Spruce Street",,,,way
+"St. Marks Square",,,,way
 "St. Mary's Park Pedestrian Bridge",,,,way
 "Stadium Drive",,,,way
 "Stanford Heights Avenue",,,,way
