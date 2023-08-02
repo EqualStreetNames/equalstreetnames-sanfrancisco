@@ -22,7 +22,6 @@ name,source,gender,wikidata,type
 "11th Avenue",,,,way
 "11th Street",,,,way
 12,,,,way
-"123 Market Plaza",,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
 13,,,,way
@@ -48,8 +47,6 @@ name,source,gender,wikidata,type
 "19th Street",,,,relation+way
 "1st Street",,,,way
 2,,,,way
-3,,,,way
-4,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -80,6 +77,7 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
+3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -94,6 +92,7 @@ name,source,gender,wikidata,type
 "39th Avenue",,,,way
 "3rd Avenue",,,,way
 "3rd Street",,,,way
+4,,,,way
 "40th Avenue",,,,way
 "41st Avenue",,,,way
 "42nd Avenue",,,,way
@@ -130,7 +129,6 @@ name,source,gender,wikidata,type
 "A.P. Giannini Plaza",,,,way
 "Abbey Street",,,,way
 "Acacia Avenue",,,,way
-"Acacia Plaza",,,,way
 "Acadia Street",,,,way
 "Accacia Street",,,,way
 "Acevedo Avenue",,,,way
@@ -148,7 +146,7 @@ name,source,gender,wikidata,type
 "Alana Way",,,,way
 "Alberta Street",,,,way
 "Albion Street",,,,way
-"Alcatraz Wharf",,,,way
+"Alcatraz Wharf",,,,relation
 "Alder Street",,,,way
 "Alert Alley",,,,way
 "Alexander Zuckermann Bay Bridge Trail",,,,way
@@ -769,7 +767,6 @@ Broadway,,,,way
 "Felton Street",,,,way
 "Fernandez Street",,,,way
 "Fernwood Drive",,,,way
-"Ferry Plaza",,,,way
 "Filbert Steps",,,,way
 "Filbert Street",,,,way
 "Fillmore Center Plaza",,,,way
@@ -1437,6 +1434,7 @@ Kalmanovitz,,,,way
 "Nibbi Court",,,,way
 "Nichols Way",,,,way
 "Nido Avenue",,,,way
+"Nike Road",,,,way
 "Nimitz Avenue",,,,way
 "Nordhoff Street",,,,way
 "Normandie Terrace",,,,way
@@ -1516,7 +1514,6 @@ Octavia,,,,way
 "Pan American Esplanade",,,,way
 "Panama Street",,,,way
 "Panorama Drive",,,,way
-"Parade Ground",,,,way
 "Paradise Avenue",,,,way
 "Paraiso Place",,,,way
 "Paramount Terrace",,,,way
@@ -1672,7 +1669,6 @@ Octavia,,,,way
 "Ridge Lane",,,,way
 "Ridgewood Avenue",,,,way
 "Riley Avenue",,,,way
-"Rincon Plaza",,,,way
 "Rio Court",,,,way
 "Rio Verde Street",,,,way
 "Ripley Street",,,,way
@@ -1858,7 +1854,6 @@ Octavia,,,,way
 "Sparta Street",,,,way
 "Spear Avenue",,,,way
 "Spear Street",,,,way
-"Spear Street Plaza",,,,way
 "Springfield Drive",,,,way
 "Sproule Lane",,,,way
 "Spruce Street",,,,way
