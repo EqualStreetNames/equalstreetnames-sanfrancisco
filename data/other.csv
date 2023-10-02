@@ -15,6 +15,14 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
+2,,,,way
+3,,,,way
+4,,,,way
+5,,,,way
+6,,,,way
+7,,,,way
+8,,,,way
+9,,,,way
 10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
@@ -46,7 +54,6 @@ name,source,gender,wikidata,type
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
-2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -77,7 +84,6 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
-3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -92,7 +98,6 @@ name,source,gender,wikidata,type
 "39th Avenue",,,,way
 "3rd Avenue",,,,way
 "3rd Street",,,,way
-4,,,,way
 "40th Avenue",,,,way
 "41st Avenue",,,,way
 "42nd Avenue",,,,way
@@ -104,24 +109,19 @@ name,source,gender,wikidata,type
 "48th Avenue",,,,way
 "4th Avenue",,,,way
 "4th Street",,,,way
-5,,,,way
 "50 Beale Street Plaza",,,,way
 "560 Mission Street Plaza",,,,way
 "5th Avenue",,,,way
 "5th Avenue Entrance",,,,way
 "5th Street",,,,way
 "5th Street Plaza",,,,way
-6,,,,way
 "611 Folsom Street Plaza",,,,way
 "6th Avenue",,,,way
 "6th Street",,,,way
-7,,,,way
 "7th Avenue",,,,way
 "7th Street",,,,way
-8,,,,way
 "8th Avenue",,,,way
 "8th Street",,,,way
-9,,,,way
 "9th Avenue",,,,way
 "9th Street",,,,relation+way
 "A Dock",,,,way
@@ -324,7 +324,7 @@ name,source,gender,wikidata,type
 "Bonnie Brae Lane",,,,way
 "Bonview Street",,,,way
 "Borica Street",,,,way
-"Bostonship Plaza",,,,way
+"Bostonship Plaza",,,,relation+way
 "Boswell Street",,,,way
 "Bosworth Street",,,,way
 "Boutwell Street",,,,way
@@ -362,6 +362,7 @@ Broadway,,,,way
 "Brumiss Terrace",,,,way
 "Brunswick Street",,,,way
 "Brussels Street",,,,way
+"Bruton Street",,,,way
 "Bucareli Drive",,,,way
 "Buchanan Mall",,,,way
 "Buchanan Street Mall",,,,relation+way
@@ -561,6 +562,7 @@ Broadway,,,,way
 "Crane Street",,,,way
 "Cranleigh Drive",,,,way
 "Craut Street",,,,way
+"Cravath Street",,,,way
 "Crescent Avenue",,,,way
 "Crescent Court",,,,way
 "Crescent Way",,,,way
@@ -1070,6 +1072,7 @@ Issleib,,,,way
 "Jennings Court",,,,way
 "Jennings Street",,,,way
 "John F Foran Freeway",,,,way
+"Johnson Street",,,,way
 "Johnstone Drive",,,,way
 "Jones Street",,,,way
 "Jordan Avenue",,,,way
@@ -1227,7 +1230,6 @@ Kalmanovitz,,,,way
 "Mabel Alley",,,,way
 "Mabini Street",,,,way
 "Mabrey Court",,,,way
-"Mac Arthur Avenue",,,,way
 "MacArthur Avenue",,,,way
 "Macalla Road",,,,way
 "Macarthur Avenue",,,,way
@@ -1782,8 +1784,8 @@ Octavia,,,,way
 "Schofield Road",,,,way
 "Schwerin Street",,,,way
 "Scotia Avenue",,,,way
+"Sea Cliff Avenue",,,,way
 "Sea View Terrace",,,,way
-"Seacliff Avenue",,,,way
 "Seal Rock Drive",,,,way
 "Seals Plaza",,,,way
 "Sears Street",,,,way
@@ -1962,6 +1964,7 @@ Octavia,,,,way
 "Towerside Avenue",,,,way
 "Townsend Street",,,,relation+way
 "Toyon Lane",,,,way
+"Trade Winds Avenue",,,,way
 "Trainor Street",,,,way
 "Transbay Bus Ramp",,,,way
 "Transverse Drive",,,,way
