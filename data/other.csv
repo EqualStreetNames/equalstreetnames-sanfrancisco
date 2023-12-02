@@ -15,6 +15,9 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
+10,,,,way
+"10th Avenue",,,,way
+"10th Street",,,,way
 2,,,,way
 3,,,,way
 4,,,,way
@@ -22,10 +25,6 @@ name,source,gender,wikidata,type
 6,,,,way
 7,,,,way
 8,,,,way
-9,,,,way
-10,,,,way
-"10th Avenue",,,,way
-"10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
@@ -122,6 +121,7 @@ name,source,gender,wikidata,type
 "7th Street",,,,way
 "8th Avenue",,,,way
 "8th Street",,,,way
+9,,,,way
 "9th Avenue",,,,way
 "9th Street",,,,relation+way
 "A Dock",,,,way
@@ -173,8 +173,10 @@ name,source,gender,wikidata,type
 "Amherst Street",,,,way
 "Anderson Street",,,,way
 "Andover Street",,,,way
+"Angelo's Alley",,,,way
 "Ankeny Street",,,,way
 "Annapolis Terrace",,,,way
+"Annie Street",,,,way
 "Anzavista Avenue",,,,way
 "Apollo Street",,,,way
 "Apparel Way",,,,way
@@ -238,6 +240,7 @@ name,source,gender,wikidata,type
 "Balceta Avenue",,,,way
 "Baldwin Court",,,,way
 "Balhi Court",,,,way
+"Balmy Street",,,,way
 "Baltimore Way",,,,way
 "Banbury Drive",,,,way
 "Bancroft Avenue",,,,way
@@ -258,7 +261,6 @@ name,source,gender,wikidata,type
 "Bay Street",,,,way
 "Bay Trail",,,,way
 "Bay View Street",,,,way
-"Bayshore Blvd",,,,way
 "Bayshore Boulevard",,,,way
 "Bayshore Freeway",,,,way
 "Bayside Drive",,,,way
@@ -300,6 +302,7 @@ name,source,gender,wikidata,type
 "Bertha Lane",,,,way
 "Bertie Minor Lane",,,,way
 "Bertita Street",,,,way
+"Berwick Place",,,,way
 "Bessie Street",,,,way
 "Beulah Street",,,,way
 "Beverly Street",,,,way
@@ -361,6 +364,7 @@ Broadway,,,,way
 "Bruce's Stairs",,,,way
 "Brumiss Terrace",,,,way
 "Brunswick Street",,,,way
+"Brush Place",,,,way
 "Brussels Street",,,,way
 "Bruton Street",,,,way
 "Bucareli Drive",,,,way
@@ -374,6 +378,7 @@ Broadway,,,,way
 "Burke Avenue",,,,way
 "Burlwood Drive",,,,way
 "Burnett North Avenue",,,,way
+"Burns Place",,,,way
 "Burnside Avenue",,,,way
 "Burr Avenue",,,,way
 "Burrows Court",,,,way
@@ -491,6 +496,7 @@ Broadway,,,,way
 "Clearview Court",,,,way
 "Cleary Court",,,,way
 "Clement Street",,,,way
+"Clementina Street",,,,way
 "Cleo Rand Lane",,,,way
 "Cleveland Street",,,,way
 "Clifford Terrace",,,,way
@@ -501,6 +507,7 @@ Broadway,,,,way
 "Clipper Terrace",,,,way
 "Clover Lane",,,,way
 "Clover Street",,,,way
+"Clyde Street",,,,way
 "Coastal Trail",,,,way
 "Cochrane Street",,,,way
 "Codman Place",,,,way
@@ -590,6 +597,7 @@ Broadway,,,,way
 "Custer Avenue",,,,way
 "Cutler Avenue",,,,way
 "Cuvier Street",,,,way
+"Cypress Street",,,,way
 "Cyrus Place",,,,way
 "D Dock",,,,way
 "D Street",,,,way
@@ -765,6 +773,7 @@ Broadway,,,,way
 "Farren Street",,,,way
 "Farview Court",,,,way
 "Faxon Avenue",,,,way
+"Federal Street",,,,way
 "Felix Avenue",,,,way
 "Fell Street",,,,way
 "Felton Street",,,,way
@@ -821,6 +830,7 @@ Broadway,,,,way
 "Fredela Lane",,,,way
 "Frederick Street",,,,way
 "Fredson Court",,,,way
+"Freelon Street",,,,way
 "Freeman Court",,,,way
 "Fremont Center",,,,way
 "French Court",,,,way
@@ -835,11 +845,11 @@ Broadway,,,,way
 "Gabilan Way",,,,way
 "Gaiser Court",,,,way
 "Galewood Circle",,,,way
+"Gallagher Lane",,,,way
 "Galvez Avenue",,,,way
 "Gambier Street",,,,way
 "Garces Drive",,,,way
 "Garcia Avenue",,,,way
-"Garden Way",,,,way
 "Gardener's Trail",,,,way
 "Gardenside Drive",,,,way
 "Garfield Street",,,,way
@@ -891,6 +901,7 @@ Broadway,,,,way
 "Golden Gate Promenade",,,,way
 "Goleta Avenue",,,,way
 "Gonzalez Drive",,,,way
+"Gordon Street",,,,way
 "Gorgas Avenue",,,,way
 "Gorham Street",,,,way
 "Gough Street",,,,way
@@ -926,6 +937,7 @@ Broadway,,,,way
 "Hahn Street",,,,way
 "Hale Street",,,,way
 "Halibut Court",,,,way
+"Hallam Street",,,,way
 "Halleck Street",,,,way
 "Hallidie Plaza",,,,way
 "Halyburton Court",,,,way
@@ -969,10 +981,10 @@ Broadway,,,,way
 "Hemway Terrace",,,,way
 "Henry Adams Street",,,,way
 "Henry Street",,,,way
-"Herbst Road",,,,way
 "Heritage Avenue",,,,way
 "Hermann Street",,,,way
 "Hernandez Avenue",,,,way
+"Heron Street",,,,way
 "Hester Avenue",,,,way
 "Heyman Avenue",,,,way
 "Hickory Street",,,,way
@@ -1010,6 +1022,7 @@ Broadway,,,,way
 "Hooper Street",,,,way
 "Hooper's Steps",,,,way
 "Hopkins Avenue",,,,way
+"Horace Street",,,,way
 "Horne Avenue",,,,way
 "Hospital Street",,,,way
 "Houston Street",,,,way
@@ -1082,13 +1095,16 @@ Issleib,,,,way
 "Juanita Way",,,,way
 "Judson Avenue",,,,way
 "Jules Avenue",,,,way
+"Julia Street",,,,way
 "Julian Avenue",,,,way
 "Junior Terrace",,,,way
+"Juniper Street",,,,way
 "Juri Street",,,,way
 "Justin Drive",,,,way
 Kalmanovitz,,,,way
 "Kamille Court",,,,way
 "Kansas Street",,,,way
+"Kaplan Lane",,,,way
 "Karen Court",,,,way
 "Kate Street",,,,way
 "Kearny Lane",,,,way
@@ -1174,6 +1190,7 @@ Kalmanovitz,,,,way
 "Lexington Street",,,,way
 "Liberty Street",,,,relation+way
 "Liebig Street",,,,way
+"Lilac Street",,,,way
 "Lillian Court",,,,way
 "Lily Street",,,,way
 "Linares Avenue",,,,way
@@ -1216,6 +1233,7 @@ Kalmanovitz,,,,way
 "Lower Terrace",,,,way
 "Loyola Terrace",,,,way
 "Lucerne Street",,,,way
+"Lucky Street",,,,way
 "Lucy Street",,,,way
 "Lulu Alley",,,,way
 "Lunado Court",,,,way
@@ -1223,6 +1241,7 @@ Kalmanovitz,,,,way
 "Lundys Lane",,,,way
 "Lupine Avenue",,,,way
 "Lurline Street",,,,way
+"Lusk Street",,,,way
 "Lydia Avenue",,,,way
 "Lyell Street",,,,way
 "Lyndhurst Drive",,,,way
@@ -1391,6 +1410,7 @@ Kalmanovitz,,,,way
 "Morse Street",,,,way
 "Morton Street",,,,way
 "Moscow Street",,,,way
+"Moss Street",,,,way
 "Moulton Street",,,,way
 "Mount Lane",,,,way
 "Mount Vernon Avenue",,,,way
@@ -1440,6 +1460,7 @@ Kalmanovitz,,,,way
 "Nike Road",,,,way
 "Nimitz Avenue",,,,way
 "Nordhoff Street",,,,way
+"Norfolk Street",,,,way
 "Normandie Terrace",,,,way
 "North 15th Avenue",,,,way
 "North Creek Trail",,,,way
@@ -1495,6 +1516,7 @@ Octavia,,,,way
 "Orizaba Avenue",,,,way
 "Orsi Circle",,,,way
 "Ortega Way",,,,way
+"Osage Street",,,,way
 "Oscar Alley",,,,way
 "Osceola Lane",,,,way
 "Otega Avenue",,,,way
@@ -1649,6 +1671,7 @@ Octavia,,,,way
 "Reddy Street",,,,way
 "Redfield Alley",,,,way
 "Redondo Street",,,,way
+"Redwood Street",,,,way
 "Reed Street",,,,way
 "Reeves Court",,,,way
 "Regent Street",,,,way
@@ -1672,9 +1695,11 @@ Octavia,,,,way
 "Ridge Lane",,,,way
 "Ridgewood Avenue",,,,way
 "Riley Avenue",,,,way
+"Rincon Street",,,,way
 "Rio Court",,,,way
 "Rio Verde Street",,,,way
 "Ripley Street",,,,way
+"Ritch Street",,,,way
 "Rivas Avenue",,,,way
 "Riverton Drive",,,,way
 "Rivoli Street",,,,way
@@ -1687,6 +1712,7 @@ Octavia,,,,way
 "Rockdale Drive",,,,way
 "Rockridge Drive",,,,way
 "Rockwood Court",,,,way
+"Rodgers Street",,,,way
 "Rodriguez Street",,,,way
 "Roemer Way",,,,way
 "Roger Evans Terrace",,,,way
@@ -1893,6 +1919,7 @@ Octavia,,,,way
 "Summit Street",,,,way
 "Summit Way",,,,way
 "Sumner Avenue",,,,way
+"Sumner Street",,,,way
 "Sunbeam Lane",,,,way
 "Sunglow Lane",,,,way
 "Sunnydale Avenue",,,,way
@@ -1911,6 +1938,7 @@ Octavia,,,,way
 "Sycamore Street",,,,way
 "Sydney Way",,,,way
 "Sylvan Drive",,,,way
+"Taber Place",,,,way
 "Tacoma Street",,,,way
 "Talbert Street",,,,way
 "Tamalpais Terrace",,,,way
@@ -1919,6 +1947,7 @@ Octavia,,,,way
 "Tara Street",,,,way
 "Taylor Road",,,,way
 "Teddy Avenue",,,,way
+"Tehama Street",,,,way
 "Temescal Terrace",,,,way
 "Temple Street",,,,way
 "Tennessee Hollow Trail",,,,way
@@ -2018,7 +2047,9 @@ Octavia,,,,way
 "Van Ness Bus Rapid Transit",,,,way
 "Vandewater Street",,,,way
 "Varela Avenue",,,,way
+"Varney Place",,,,way
 "Vasquez Avenue",,,,way
+"Vassar Place",,,,way
 "Vega Street",,,,way
 "Velasco Avenue",,,,way
 "Ventura Avenue",,,,way
@@ -2035,6 +2066,7 @@ Octavia,,,,way
 "Vidal Drive",,,,way
 "Vienna Street",,,,way
 "Villa Terrace",,,,way
+"Virgil Street",,,,way
 "Virginia Avenue",,,,way
 "Visitacion Avenue",,,,way
 "Visitacion Valley Greenway Community Garden",,,,way
@@ -2070,6 +2102,7 @@ Octavia,,,,way
 "Wayland Street",,,,way
 "Webb Place",,,,way
 "Wedemeyer Street",,,,way
+"Welsh Street",,,,way
 "West Broadway",,,,way
 "West Campus Green",,,,way
 "West Clay Street",,,,way
@@ -2139,3 +2172,5 @@ Octavia,,,,way
 "Young Court",,,,way
 "Yukon Street",,,,way
 "Zircon Place",,,,way
+"Zoe Street",,,,way
+"Zoo Road",,,,way
