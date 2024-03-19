@@ -18,16 +18,10 @@ name,source,gender,wikidata,type
 10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
-2,,,,way
-3,,,,way
-4,,,,way
-5,,,,way
-6,,,,way
-7,,,,way
-8,,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
+2,,,,way
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
@@ -83,6 +77,7 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
+3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -97,6 +92,7 @@ name,source,gender,wikidata,type
 "39th Avenue",,,,way
 "3rd Avenue",,,,way
 "3rd Street",,,,way
+4,,,,way
 "40th Avenue",,,,way
 "41st Avenue",,,,way
 "42nd Avenue",,,,way
@@ -108,17 +104,21 @@ name,source,gender,wikidata,type
 "48th Avenue",,,,way
 "4th Avenue",,,,way
 "4th Street",,,,way
+5,,,,way
 "50 Beale Street Plaza",,,,way
 "560 Mission Street Plaza",,,,way
 "5th Avenue",,,,way
 "5th Avenue Entrance",,,,way
 "5th Street",,,,way
 "5th Street Plaza",,,,way
+6,,,,way
 "611 Folsom Street Plaza",,,,way
 "6th Avenue",,,,way
 "6th Street",,,,way
+7,,,,way
 "7th Avenue",,,,way
 "7th Street",,,,way
+8,,,,way
 "8th Avenue",,,,way
 "8th Street",,,,way
 9,,,,way
@@ -135,6 +135,7 @@ name,source,gender,wikidata,type
 "Acme Alley",,,,way
 "Acton Street",,,,way
 "Adah's Stairway",,,,way
+"Adair Street",,,,way
 "Addison Street",,,,way
 "Admiral Avenue",,,,way
 "Aerial Way",,,,way
@@ -148,6 +149,10 @@ name,source,gender,wikidata,type
 "Albion Street",,,,way
 "Alcatraz Wharf",,,,relation
 "Alder Street",,,,way
+"Alemany Bike Lane",,,,way
+"Alemany Bikelane",,,,way
+"Alemany Blvd Biketrack",,,,way
+"Alemany buffered bike lane",,,,way
 "Alert Alley",,,,way
 "Alexander Zuckermann Bay Bridge Trail",,,,way
 "Alhambra Street",,,,way
@@ -219,7 +224,6 @@ name,source,gender,wikidata,type
 "Avenue B",,,,way
 "Avenue D",,,,way
 "Avenue E",,,,way
-"Avenue F",,,,way
 "Avenue G",,,,way
 "Avenue H",,,,way
 "Avenue I",,,,way
@@ -255,12 +259,14 @@ name,source,gender,wikidata,type
 "Battery Caulfield Road",,,,way
 "Battery East Road",,,,way
 "Battery Street",,,,way
+"Battery Street Bikeway",,,,way
 "Battery Wagner Road",,,,way
 "Battle of the Bulge Memorial Trail",,,,way
 "Bay Area Ridge Trail",,,,way
 "Bay Street",,,,way
 "Bay Trail",,,,way
 "Bay View Street",,,,way
+"Bayshore Bikeway",,,,way
 "Bayshore Boulevard",,,,way
 "Bayshore Freeway",,,,way
 "Bayside Drive",,,,way
@@ -270,6 +276,8 @@ name,source,gender,wikidata,type
 "Beach Street",,,,way
 "Beachmont Drive",,,,way
 "Beacon Street",,,,way
+"Beale Street Bikelane",,,,way
+"Beale Street cycleway",,,,way
 "Beatrice Lane",,,,way
 "Beaumont Avenue",,,,way
 "Beaver Street",,,,way
@@ -306,6 +314,7 @@ name,source,gender,wikidata,type
 "Bessie Street",,,,way
 "Beulah Street",,,,way
 "Beverly Street",,,,way
+"Bicycle path",,,,way
 "Bill Walsh Way",,,,way
 "Birch Street",,,,way
 "Birchwood Court",,,,way
@@ -320,6 +329,7 @@ name,source,gender,wikidata,type
 "Blanken Avenue",,,,way
 "Bliss Road",,,,way
 "Blue Greenway",,,,way
+"Blue Heron Lake Drive",,,,way
 "Blythdale Avenue",,,,way
 "Boardman Place",,,,way
 "Bocana Street",,,,way
@@ -507,7 +517,6 @@ Broadway,,,,way
 "Clipper Terrace",,,,way
 "Clover Lane",,,,way
 "Clover Street",,,,way
-"Clyde Street",,,,way
 "Coastal Trail",,,,way
 "Cochrane Street",,,,way
 "Codman Place",,,,way
@@ -711,7 +720,6 @@ Broadway,,,,way
 "El Sereno Court",,,,way
 "El Verano Way",,,,way
 "Elgin Park",,,,way
-"Elim Street",,,,way
 "Elk Street",,,,way
 "Ellert Street",,,,way
 "Ellington Avenue",,,,way
@@ -777,6 +785,7 @@ Broadway,,,,way
 "Felix Avenue",,,,way
 "Fell Street",,,,way
 "Felton Street",,,,way
+"Fern Street",,,,way
 "Fernandez Street",,,,way
 "Fernwood Drive",,,,way
 "Filbert Steps",,,,way
@@ -800,9 +809,10 @@ Broadway,,,,way
 "Flower Street",,,,way
 "Foerster Street",,,,way
 "Fog Bridge",,,,way
+"Folsom Bike Lane",,,,way
 "Folsom Street, E. Sidewalk",,,,way
 "Folsom Street, W. Sidewalk",,,,way
-"Folsom Stroll",,,,way
+"Folsome Bike Lane",,,,way
 "Font Boulevard",,,,way
 "Foote Avenue",,,,way
 "Ford Street",,,,way
@@ -953,6 +963,7 @@ Broadway,,,,way
 "Hare Street",,,,way
 "Harkness Avenue",,,,way
 "Harlow Street",,,,way
+"Harmonia Street",,,,way
 "Harney Way",,,,way
 "Harold Avenue",,,,way
 "Harper Street",,,,way
@@ -1135,7 +1146,6 @@ Kalmanovitz,,,,way
 "La Bica Way",,,,way
 "La Grande Avenue",,,,way
 "La Playa Street",,,,way
-"La Playa Terminal Loop",,,,way
 "La Salle Avenue",,,,way
 "Lafayette Street",,,,way
 "Laguna Honda Boulevard",,,,way
@@ -1145,9 +1155,13 @@ Kalmanovitz,,,,way
 "Lake Forest Court",,,,way
 "Lake Merced BIke Path",,,,way
 "Lake Merced Bike Path",,,,way
+"Lake Merced Blvd Northbound protected bikeway",,,,way
 "Lake Merced Boulevard",,,,way
 "Lake Merced Hill Street",,,,way
 "Lake Merced Hills Community Center Access Stairs",,,,way
+"Lake Merced Northbound Bikeway",,,,way
+"Lake Merced Southbound protected Bikeway",,,,way
+"Lake Merced Southbound protected bikeway",,,,way
 "Lake Street",,,,way
 "Lakeshore Drive",,,,way
 "Lakeview Avenue",,,,way
@@ -1262,11 +1276,13 @@ Kalmanovitz,,,,way
 "Magellan Avenue",,,,way
 "Magnolia Street",,,,way
 "Mahan Street",,,,way
+"Maiden Lane",,,,way
 "Main Drive",,,,way
 "Main Street",,,,way
 "Majestic Avenue",,,,way
 "Malcolm X Plaza",,,,relation
 "Mallorca Way",,,,way
+"Malosi Street",,,,way
 "Malta Drive",,,,way
 "Manchester Street",,,,way
 "Mandalay Lane",,,,way
@@ -1320,6 +1336,7 @@ Kalmanovitz,,,,way
 "McCovey Cove Promenade",,,,way
 "McDowell Avenue",,,,way
 "McDowell Road SW",,,,way
+"McDowell Road Southwest",,,,way
 "McKinley - Vermont Lower Steps",,,,way
 "McKinnon Avenue",,,,way
 "McLaren Avenue",,,,way
@@ -1395,6 +1412,7 @@ Kalmanovitz,,,,way
 "Mono Street",,,,way
 "Montalvo Avenue",,,,way
 "Montana Street",,,,way
+"Montclair Terrace",,,,way
 "Montecito Avenue",,,,way
 "Monterey Boulevard",,,,way
 "Montezuma Street",,,,way
@@ -1474,6 +1492,7 @@ Kalmanovitz,,,,way
 "North State Drive",,,,way
 "North Van Horn Lane",,,,way
 "North View Court",,,,way
+"Northbound Protected Bikeway",,,,way
 "Northgate Drive",,,,way
 "Northpoint Drive",,,,way
 "Northridge Road",,,,way
@@ -1578,7 +1597,6 @@ Octavia,,,,way
 "Peter Macchiarini Steps",,,,way
 "Peter Yorke Way",,,,way
 "Peters Avenue",,,,way
-"Phelan Loop",,,,way
 "Phelps Street",,,,way
 "Phil Arnold Trail",,,,way
 "Philosopher's Way",,,,way
@@ -1769,7 +1787,6 @@ Octavia,,,,way
 "San Diego Avenue",,,,way
 "San Felipe Avenue",,,,way
 "San Fernando Way",,,,way
-"San Francisco Bay Railroad",,,,way
 "San Gabriel Avenue",,,,way
 "San Jacinto Way",,,,way
 "San Jose Avenue",,,,way
@@ -1880,6 +1897,7 @@ Octavia,,,,way
 "Southern Embarcadero Freeway",,,,way
 "Southern Heights Avenue",,,,way
 "Southwood Drive",,,,way
+"Sparrow Street",,,,way
 "Sparta Street",,,,way
 "Spear Avenue",,,,way
 "Spear Street",,,,way
@@ -1912,7 +1930,6 @@ Octavia,,,,way
 "Stoneyford Avenue",,,,way
 "Storey Avenue",,,,way
 "Storrie Street",,,,way
-"Stow Lake Drive",,,,way
 "Stratford Drive",,,,way
 "Striped Bass Street",,,,way
 "Sturgeon Street",,,,way
@@ -2064,6 +2081,7 @@ Octavia,,,,way
 "Victoria Street",,,,way
 "Victory Trail",,,,way
 "Vidal Drive",,,,way
+"Vidal Drive Bike Route",,,,way
 "Vienna Street",,,,way
 "Villa Terrace",,,,way
 "Virgil Street",,,,way
@@ -2093,6 +2111,7 @@ Octavia,,,,way
 "Washburn Street",,,,way
 "Washington Boulevard",,,,way
 "Watchman Way",,,,way
+"Waterfront Plaza",,,,way
 "Waterloo Street",,,,way
 "Waterville Street",,,,way
 "Watson Avenue",,,,way
@@ -2129,6 +2148,7 @@ Octavia,,,,way
 "Whitney Street",,,,way
 "Whitney Young Circle",,,,way
 "Whittier Street",,,,way
+"Wiese Street",,,,way
 "Wilde Avenue",,,,way
 "Wilder Street",,,,way
 "Wildwood Way",,,,way

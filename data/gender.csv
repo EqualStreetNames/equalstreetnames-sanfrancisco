@@ -82,6 +82,7 @@ name,source,gender,wikidata,type
 "Lawton Street",wikidata,M,Q13632030,way
 "Le Conte Avenue",wikidata,M,Q6244266,way
 "Leese Street",wikidata,M,Q6119084,way
+"Leidesdorff Street",wikidata,M,Q8014467,way
 "Liggett Avenue",wikidata,M,Q1638139,way
 "Lincoln Boulevard",wikidata,M,Q91,way
 "Lincoln Court",wikidata,M,Q91,way
@@ -109,6 +110,7 @@ name,source,gender,wikidata,type
 "Pierce Street",wikidata,M,Q12312,way
 "Polk Street",wikidata,M,Q11891,way
 "Portola Drive",wikidata,M,Q461023,way
+Ramp,wikidata,M,Q3815531,way
 "Richardson Avenue",wikidata,M,Q4818023,way
 "Ringold Street",wikidata,M,Q5016639,way
 "Rivera Street",wikidata,M,Q3742952,way
