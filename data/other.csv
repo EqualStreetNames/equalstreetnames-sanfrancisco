@@ -21,10 +21,11 @@ name,source,gender,wikidata,type
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
-2,,,,way
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
+"15th Street",,,,way
+2,,,,way
 13,,,,way
 "13th Street",,,,way
 14,,,,way
@@ -32,7 +33,6 @@ name,source,gender,wikidata,type
 "14th Street",,,,way
 15,,,,way
 "15th Avenue",,,,way
-"15th Street",,,,way
 16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
@@ -60,10 +60,8 @@ name,source,gender,wikidata,type
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
-24,,,,way
 "24th Avenue",,,,way
 "24th Street",,,,way
-25,,,,way
 "25th Avenue",,,,way
 "25th Avenue North",,,,way
 "25th Street",,,,way
@@ -78,6 +76,8 @@ name,source,gender,wikidata,type
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
 3,,,,way
+24,,,,way
+25,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -259,7 +259,6 @@ name,source,gender,wikidata,type
 "Battery Caulfield Road",,,,way
 "Battery East Road",,,,way
 "Battery Street",,,,way
-"Battery Street Bikeway",,,,way
 "Battery Wagner Road",,,,way
 "Battle of the Bulge Memorial Trail",,,,way
 "Bay Area Ridge Trail",,,,way
