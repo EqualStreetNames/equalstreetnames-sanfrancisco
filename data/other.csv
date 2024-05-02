@@ -15,17 +15,16 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
-10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
+2,,,,way
+10,,,,way
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
-"15th Street",,,,way
-2,,,,way
 13,,,,way
 "13th Street",,,,way
 14,,,,way
@@ -33,6 +32,7 @@ name,source,gender,wikidata,type
 "14th Street",,,,way
 15,,,,way
 "15th Avenue",,,,way
+"15th Street",,,,way
 16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
@@ -60,8 +60,10 @@ name,source,gender,wikidata,type
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
+24,,,,way
 "24th Avenue",,,,way
 "24th Street",,,,way
+25,,,,way
 "25th Avenue",,,,way
 "25th Avenue North",,,,way
 "25th Street",,,,way
@@ -76,8 +78,6 @@ name,source,gender,wikidata,type
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
 3,,,,way
-24,,,,way
-25,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -808,10 +808,8 @@ Broadway,,,,way
 "Flower Street",,,,way
 "Foerster Street",,,,way
 "Fog Bridge",,,,way
-"Folsom Bike Lane",,,,way
 "Folsom Street, E. Sidewalk",,,,way
 "Folsom Street, W. Sidewalk",,,,way
-"Folsome Bike Lane",,,,way
 "Font Boulevard",,,,way
 "Foote Avenue",,,,way
 "Ford Street",,,,way
