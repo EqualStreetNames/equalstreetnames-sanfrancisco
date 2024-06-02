@@ -15,13 +15,13 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
+2,,,,way
+10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
-2,,,,way
-10,,,,way
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
@@ -149,10 +149,6 @@ name,source,gender,wikidata,type
 "Albion Street",,,,way
 "Alcatraz Wharf",,,,relation
 "Alder Street",,,,way
-"Alemany Bike Lane",,,,way
-"Alemany Bikelane",,,,way
-"Alemany Blvd Biketrack",,,,way
-"Alemany buffered bike lane",,,,way
 "Alert Alley",,,,way
 "Alexander Zuckermann Bay Bridge Trail",,,,way
 "Alhambra Street",,,,way
@@ -198,7 +194,6 @@ name,source,gender,wikidata,type
 "Ardath Court",,,,way
 "Ardenwood Way",,,,way
 "Arelious Walker Drive",,,,way
-"Arelius Walker Drive",,,,way
 "Arellano Avenue",,,,way
 "Argent Alley",,,,way
 "Argonaut Avenue",,,,way
@@ -265,7 +260,6 @@ name,source,gender,wikidata,type
 "Bay Street",,,,way
 "Bay Trail",,,,way
 "Bay View Street",,,,way
-"Bayshore Bikeway",,,,way
 "Bayshore Boulevard",,,,way
 "Bayshore Freeway",,,,way
 "Bayside Drive",,,,way
@@ -275,8 +269,6 @@ name,source,gender,wikidata,type
 "Beach Street",,,,way
 "Beachmont Drive",,,,way
 "Beacon Street",,,,way
-"Beale Street Bikelane",,,,way
-"Beale Street cycleway",,,,way
 "Beatrice Lane",,,,way
 "Beaumont Avenue",,,,way
 "Beaver Street",,,,way
@@ -353,6 +345,7 @@ Breezeway,,,,way
 "Brentwood Avenue",,,,way
 "Briarcliff Terrace",,,,way
 "Bridgeview Drive",,,,way
+"Bridgeview Paseo",,,,way
 "Bridgeview Way",,,,way
 "Bright Street",,,,way
 "Brighton Avenue",,,,way
@@ -675,6 +668,7 @@ Broadway,,,,way
 "Double Rock Street",,,,way
 "Douglass Street",,,,way
 "Downey Street",,,,way
+"Dr. Maya Angelou Paseo",,,,way
 "Dr. Maya Angelou Way",,,,way
 "Dr. Rolland and Kathryn Lowe Community Bridge",,,,way
 "Dr. Tom Waddell Place",,,,way
@@ -1137,6 +1131,7 @@ Kalmanovitz,,,,way
 "Kittredge Terrace",,,,way
 "Knollview Way",,,,way
 "Knott Court",,,,way
+"Knuckle Wharf",,,,way
 "Kobbe Avenue",,,,way
 "Kronquist Court",,,,way
 "La Avanzada Street",,,,way
@@ -1152,12 +1147,10 @@ Kalmanovitz,,,,way
 "Lake Forest Court",,,,way
 "Lake Merced BIke Path",,,,way
 "Lake Merced Bike Path",,,,way
-"Lake Merced Blvd Northbound protected bikeway",,,,way
 "Lake Merced Boulevard",,,,way
 "Lake Merced Hill Street",,,,way
 "Lake Merced Hills Community Center Access Stairs",,,,way
 "Lake Merced Northbound Bikeway",,,,way
-"Lake Merced Southbound protected Bikeway",,,,way
 "Lake Merced Southbound protected bikeway",,,,way
 "Lake Street",,,,way
 "Lakeshore Drive",,,,way
@@ -1710,6 +1703,7 @@ Octavia,,,,way
 "Ridge Lane",,,,way
 "Ridgewood Avenue",,,,way
 "Riley Avenue",,,,way
+"Rincon Plaza",,,,way
 "Rincon Street",,,,way
 "Rio Court",,,,way
 "Rio Verde Street",,,,way
