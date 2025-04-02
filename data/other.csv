@@ -16,15 +16,16 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
-10,,,,way
 "10th Avenue",,,,way
-"10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
+2,,,,way
+10,,,,way
+"10th Street",,,,way
 13,,,,way
 "13th Street",,,,way
 14,,,,way
@@ -43,10 +44,9 @@ name,source,gender,wikidata,type
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
+19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
-2,,,,way
-19,,,,way
 "1st Street",,,,way
 20,,,,way
 "20th Avenue",,,,way
@@ -55,7 +55,6 @@ name,source,gender,wikidata,type
 21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
-3,,,,way
 22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
@@ -69,16 +68,20 @@ name,source,gender,wikidata,type
 "25th Avenue",,,,way
 "25th Avenue North",,,,way
 "25th Street",,,,way
+26,,,,way
 "26th Avenue",,,,way
 "26th Street",,,,way
+27,,,,way
 "27th Avenue",,,,way
 "27th Street",,,,way
+28,,,,way
 "28th Avenue",,,,way
 "28th Street",,,,way
 "29th Avenue",,,,way
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
+3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -384,6 +387,7 @@ Broadway,,,,way
 "Burnett North Avenue",,,,way
 "Burns Place",,,,way
 "Burnside Avenue",,,,way
+"Burnside Steps",,,,way
 "Burr Avenue",,,,way
 Burrows,,,,way
 "Burrows Street",,,,way
@@ -546,6 +550,7 @@ Burrows,,,,way
 "Convention Plaza",,,,way
 "Cook Street",,,,way
 "Cooper Alley",,,,way
+"Copper Alley",,,,way
 "Cora Street",,,,way
 "Coral Road",,,,way
 "Coralino Lane",,,,way
@@ -1202,7 +1207,6 @@ Kalmanovitz,,,,way
 "Lessing Street",,,,way
 "Lester Court",,,,way
 "Letterman Drive",,,,way
-"Lettuce Lane",,,,way
 "Levant Street",,,,way
 "Levant Street Stairway",,,,way
 "Levi's Plaza",,,,way
