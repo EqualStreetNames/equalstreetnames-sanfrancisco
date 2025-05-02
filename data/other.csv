@@ -16,16 +16,15 @@ name,source,gender,wikidata,type
 "Vicksburg Street",wikidata,,Q1066253,way
 "Wawona Street",wikidata,,Q3460942,way
 1,,,,way
+10,,,,way
 "10th Avenue",,,,way
+"10th Street",,,,way
 11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
-2,,,,way
-10,,,,way
-"10th Street",,,,way
 13,,,,way
 "13th Street",,,,way
 14,,,,way
@@ -44,6 +43,7 @@ name,source,gender,wikidata,type
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
+2,,,,way
 19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
@@ -55,9 +55,10 @@ name,source,gender,wikidata,type
 21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
-22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
+3,,,,way
+22,,,,way
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
@@ -81,7 +82,6 @@ name,source,gender,wikidata,type
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
-3,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -1932,6 +1932,7 @@ Octavia,,,,way
 "States Street",,,,way
 "Steep Ravine Trail",,,,way
 "Steiner Street",,,,way
+"Steve Silver Beach Blanket Babylon Gallery Terrace",,,,way
 "Still Street",,,,way
 "Stillings Avenue",,,,way
 "Stillman Street",,,,way
@@ -1959,6 +1960,9 @@ Octavia,,,,way
 "Sunrise Way",,,,way
 "Sunset Blvd Bike Path",,,,way
 "Sunset Boulevard",,,,way
+"Sunset Dunes Fast Lanes",,,,way
+"Sunset Dunes Slow Lanes",,,,way
+"Sunset Dunes Trail",,,,way
 "Sunset Trail",,,,way
 "Sunview Drive",,,,way
 "Surrey Street",,,,way
@@ -2057,7 +2061,6 @@ Octavia,,,,way
 "Unity Plaza",,,,way
 "University Street",,,,way
 "Upland Drive",,,,way
-"Upper Great Highway",,,,way
 "Upper Terrace",,,,way
 "Upton Avenue",,,,way
 "Upton Street",,,,way
