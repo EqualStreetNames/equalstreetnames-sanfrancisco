@@ -43,12 +43,11 @@ name,source,gender,wikidata,type
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
-2,,,,way
 19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
-20,,,,way
+2,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
 "20th Street",,,,way
@@ -58,6 +57,7 @@ name,source,gender,wikidata,type
 "22nd Avenue",,,,way
 "22nd Street",,,,way
 3,,,,way
+20,,,,way
 22,,,,way
 23,,,,way
 "23rd Avenue",,,,way
@@ -254,6 +254,7 @@ name,source,gender,wikidata,type
 "Barcelona Avenue",,,,way
 "Barnard Avenue",,,,way
 "Barneveld Avenue",,,,way
+"Barry Court",,,,way
 "Bartol Street",,,,way
 "Bass Court",,,,way
 "Batteries to Bluffs Trail",,,,way
@@ -324,6 +325,7 @@ name,source,gender,wikidata,type
 "Blake Street",,,,way
 "Blandy Street",,,,way
 "Blanken Avenue",,,,way
+"Bliss Court",,,,way
 "Bliss Road",,,,way
 "Blue Greenway",,,,way
 "Blythdale Avenue",,,,way
@@ -575,6 +577,7 @@ Burrows,,,,way
 "Coyote Crags Trail",,,,way
 "Cragmont Avenue",,,,way
 "Crags Court",,,,way
+"Craig Court",,,,way
 "Crane Street",,,,way
 "Cranleigh Drive",,,,way
 "Cranston road",,,,way
@@ -1960,8 +1963,7 @@ Octavia,,,,way
 "Sunrise Way",,,,way
 "Sunset Blvd Bike Path",,,,way
 "Sunset Boulevard",,,,way
-"Sunset Dunes Fast Lanes",,,,way
-"Sunset Dunes Slow Lanes",,,,way
+"Sunset Dunes",,,,way
 "Sunset Dunes Trail",,,,way
 "Sunset Trail",,,,way
 "Sunview Drive",,,,way
