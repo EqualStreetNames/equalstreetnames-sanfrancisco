@@ -48,22 +48,22 @@ name,source,gender,wikidata,type
 "19th Street",,,,relation+way
 "1st Street",,,,way
 2,,,,way
+20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
 "20th Street",,,,way
 21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
+22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
+"24th Avenue",,,,way
 3,,,,way
-20,,,,way
-22,,,,way
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
 24,,,,way
-"24th Avenue",,,,way
 "24th Street",,,,way
 25,,,,way
 "25th Avenue",,,,way
@@ -1098,6 +1098,7 @@ Issleib,,,,way
 "Jade Place",,,,way
 "Jakey Court",,,,way
 "Jamestown Avenue",,,,way
+"Jane Warner Plaza",,,,way
 "Jarboe Avenue",,,,way
 "Jason Court",,,,way
 "Jasper Place",,,,way
@@ -1168,7 +1169,6 @@ Kalmanovitz,,,,way
 "Lagunitas Drive",,,,way
 "Laidley Street",,,,way
 "Lake Forest Court",,,,way
-"Lake Merced BIke Path",,,,way
 "Lake Merced Bike Path",,,,way
 "Lake Merced Boulevard",,,,way
 "Lake Merced Hill Street",,,,way
@@ -1693,7 +1693,6 @@ Octavia,,,,way
 "Rankin Street",,,,way
 "Rausch Street",,,,way
 "Ravenwood Drive",,,,way
-"Rawles Street",,,,way
 "Rayburn Street",,,,way
 "Raymond Avenue",,,,way
 "Reardon Road",,,,way
@@ -1862,7 +1861,6 @@ Octavia,,,,way
 "Seville Street",,,,way
 "Seward Street",,,,way
 "Seymour Street",,,,way
-"Shafter Road",,,,way
 "Shakespeare Street",,,,way
 "Sharon Street",,,,way
 "Sharp Place",,,,way
