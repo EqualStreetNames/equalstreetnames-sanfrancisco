@@ -1,20 +1,4 @@
 name,source,gender,wikidata,type
-"Bennington Street",wikidata,,Q1754313,way
-"Blue Heron Lake Drive",wikidata,,Q121872674,way
-"California Street",wikidata,,Q99,way
-"Chattanooga Street",wikidata,,Q1477050,way
-"Dolores Street",wikidata,,Q1000321,way
-"Fair Oaks Street",wikidata,,Q1550466,way
-"Golden Gate Bridge",wikidata,,Q220032,way
-"Jersey Street",wikidata,,Q1408,way
-"Lombard Street",wikidata,,Q15242635,way
-"Ramona Avenue",wikidata,,Q2326609,way
-"San Francisco – Oakland Bay Bridge",wikidata,,Q62;Q17042;Q232264,way
-"Twin Peaks Boulevard",wikidata,,Q1344297,way
-"United Nations Plaza",wikidata,,Q1065,relation
-"Vicha Ratanapakdee Way",wikidata,,Q105821431,way
-"Vicksburg Street",wikidata,,Q1066253,way
-"Wawona Street",wikidata,,Q3460942,way
 1,,,,way
 10,,,,way
 "10th Avenue",,,,way
@@ -33,13 +17,14 @@ name,source,gender,wikidata,type
 15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
-16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
 17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
+2,,,,way
+16,,,,way
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
@@ -47,7 +32,6 @@ name,source,gender,wikidata,type
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
-2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -269,7 +253,6 @@ name,source,gender,wikidata,type
 "Bayshore Boulevard",,,,way
 "Bayshore Freeway",,,,way
 "Bayside Drive",,,,way
-"Bayside Village Place",,,,way
 "Bayview Circle",,,,way
 "Bayview Park Road",,,,way
 "Bayview Street",,,,way
@@ -578,7 +561,7 @@ Burrows,,,,way
 "Craig Court",,,,way
 "Crane Street",,,,way
 "Cranleigh Drive",,,,way
-"Cranston road",,,,way
+"Cranston Road",,,,way
 "Craut Street",,,,way
 "Cravath Street",,,,way
 "Crescent Avenue",,,,way
@@ -1309,6 +1292,7 @@ Kalmanovitz,,,,way
 "Marietta Drive",,,,way
 "Marin Street",,,,way
 "Marina Boulevard",,,,way
+"Marina Plaza",,,,relation
 "Mariner Drive",,,,way
 "Marion Place",,,,way
 "Mariposa Street",,,,way
@@ -1601,6 +1585,7 @@ Octavia,,,,way
 "Penny Lane",,,,way
 "Peralta Avenue",,,,way
 "Perego Terrace",,,,way
+"Perine Place",,,,way
 "Perry Street",,,,way
 "Pershing Drive",,,,way
 "Persia Avenue",,,,way
