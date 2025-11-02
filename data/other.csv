@@ -17,17 +17,17 @@ name,source,gender,wikidata,type
 15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
+16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
 17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
-2,,,,way
-16,,,,way
 18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
+2,,,,way
 19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
@@ -140,6 +140,7 @@ name,source,gender,wikidata,type
 "Alert Alley",,,,way
 "Alexander Zuckermann Bay Bridge Trail",,,,way
 "Alhambra Street",,,,way
+"Alice B. Toklas Place",,,,way
 "Allan Street",,,,way
 "Allen Street",,,,way
 "Allison Street",,,,way
@@ -665,8 +666,6 @@ Burrows,,,,way
 "Douglass Street",,,,way
 "Downey Street",,,,way
 "Dr. Carlton B. Goodlett",,,,way
-"Dr. Maya Angelou Paseo",,,,way
-"Dr. Maya Angelou Way",,,,way
 "Dr. Rolland and Kathryn Lowe Community Bridge",,,,way
 "Dr. Tom Waddell Place",,,,way
 "Drake Street",,,,way
@@ -1167,6 +1166,7 @@ Kalmanovitz,,,,way
 "Lansdale Avenue",,,,way
 "Lansing Street",,,,way
 "Lapidge Street",,,,way
+"Larch Street",,,,way
 "Larch Way",,,,way
 "Las Villas Court",,,,way
 "Laskie Street",,,,way
@@ -1272,7 +1272,6 @@ Kalmanovitz,,,,way
 "Main Drive",,,,way
 "Main Street",,,,way
 "Majestic Avenue",,,,way
-"Malcolm X Plaza",,,,relation
 "Mallorca Way",,,,way
 "Malosi Street",,,,way
 "Malta Drive",,,,way
@@ -1292,7 +1291,6 @@ Kalmanovitz,,,,way
 "Marietta Drive",,,,way
 "Marin Street",,,,way
 "Marina Boulevard",,,,way
-"Marina Plaza",,,,relation
 "Mariner Drive",,,,way
 "Marion Place",,,,way
 "Mariposa Street",,,,way
@@ -1511,6 +1509,7 @@ Octavia,,,,way
 "Old Channel Street",,,,way
 "Old Chinatown Lane",,,,way
 "Old Mason Street",,,,way
+"Olive Street",,,,way
 "Oliver Street",,,,way
 "Olmstead Street",,,,way
 "Olympia Way",,,,way
@@ -1602,7 +1601,6 @@ Octavia,,,,way
 "Pier 3 promenade",,,,way
 "Pier 39",,,,way
 "Pier 45",,,,way
-"Pier 50",,,,way
 "Pierpoint Lane",,,,way
 "Pilgrim Avenue",,,,way
 "Pine Street",,,,way
@@ -1691,7 +1689,6 @@ Octavia,,,,way
 "Regent Street",,,,way
 "Reno Place",,,,way
 "Reposa Way",,,,way
-"Reservoir Street",,,,way
 "Restani Way",,,,way
 "Retiro Way",,,,way
 "Reuel Court",,,,way
@@ -1983,7 +1980,7 @@ Octavia,,,,way
 "The Esplanade",,,,way
 "The Great Stairs at Grace Cathedral",,,,way
 "The Nave",,,,way
-"The Quad",,,,way
+"The Quad",,,,relation
 "Theresa Street",,,,way
 "Thomas Avenue",,,,way
 "Thomas Mellon Circle",,,,way

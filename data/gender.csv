@@ -17,6 +17,8 @@ name,source,gender,wikidata,type
 "Wawona Street",wikidata,-,Q3460942,way
 "Arballo Drive",wikidata,F,Q64819900,way
 "Cameron Way",wikidata,F,Q5295343,way
+"Dr. Maya Angelou Paseo",wikidata,F,Q19526,way
+"Dr. Maya Angelou Way",wikidata,F,Q19526,way
 "Elizabeth Street",wikidata,F,Q107174535,way
 "Frida Kahlo Way",wikidata,F,Q5588,way
 "Jessie Square",wikidata,F,Q6187624,way
@@ -105,6 +107,7 @@ name,source,gender,wikidata,type
 "Lincoln Court",wikidata,M,Q91,way
 "Lincoln Way",wikidata,M,Q91,way
 "Lyon Street",wikidata,M,Q517116,way
+"Malcolm X Plaza",wikidata,M,Q43303,relation
 "Martin Luther King Junior Drive",wikidata,M,Q8027,way
 "Mason Street",wikidata,M,Q356889,way
 "McAllister Street",wikidata,M,Q6790632,way
