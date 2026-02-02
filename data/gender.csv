@@ -14,7 +14,6 @@ name,source,gender,wikidata,type
 "Vicha Ratanapakdee Way",wikidata,-,Q105821431,way
 "Vicksburg Street",wikidata,-,Q1066253,way
 "Wawona Street",wikidata,-,Q3460942,way
-"James Lick Freeway",wikidata,?,Q629500;Q62;Q17042;Q232264,way
 "Arballo Drive",wikidata,F,Q64819900,way
 "Cameron Way",wikidata,F,Q5295343,way
 "Dr. Maya Angelou Paseo",wikidata,F,Q19526,way
@@ -28,7 +27,6 @@ name,source,gender,wikidata,type
 "Rosa Parks Lane",wikidata,F,Q41921,way
 "Alemany Boulevard",wikidata,M,Q3815531,way
 "Alvarado Street",wikidata,M,Q3187571,way
-"Ambrose Bierce Alley",wikidata,M,Q191050,way
 "Anza Avenue",wikidata,M,Q727612,way
 "Anza Street",wikidata,M,Q727612,way
 "Arguello Boulevard",wikidata,M,Q6292028,way
@@ -56,6 +54,7 @@ name,source,gender,wikidata,type
 "Cyril Magnin Street",wikidata,M,Q5200806,way
 "Davis Street",wikidata,M,Q8011813,way
 "De Haro Street",wikidata,M,Q5484128,way
+"Dr. Carlton B. Goodlett Place",wikidata,M,Q11891,way
 "Evans Avenue",wikidata,M,Q1323551,way
 "Fallon Place",wikidata,M,Q3525107,way
 "Farnsworth Lane",wikidata,M,Q360098,way
@@ -78,6 +77,7 @@ name,source,gender,wikidata,type
 "Irving Street",wikidata,M,Q181667,way
 "Jack Kerouac Alley",wikidata,M,Q160534,way
 "Jackson Street",wikidata,M,Q11817,way
+"James Lick Freeway",wikidata,M,Q629500,way
 "Jefferson Street",wikidata,M,Q11812,way
 "Jerrold Avenue",wikidata,M,Q327049,way
 "John F Kennedy Drive",wikidata,M,Q9696,way
@@ -141,6 +141,7 @@ name,source,gender,wikidata,type
 "Sloat Boulevard",wikidata,M,Q634931,way
 "South Van Ness Avenue",wikidata,M,Q6144602,way
 "Starr King Way",wikidata,M,Q1590865,way
+"Steuart Lane",wikidata,M,Q360401,way
 "Steuart Street",wikidata,M,Q360401,way
 "Stevenson Street",wikidata,M,Q6272891,relation+way
 "Stockton Street",wikidata,M,Q878374,way
