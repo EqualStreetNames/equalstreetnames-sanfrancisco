@@ -1,34 +1,48 @@
 name,source,gender,wikidata,type
 1,,,,way
+10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
+11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
+12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
+13,,,,way
 "13th Street",,,,way
+14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
+15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
+16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
+17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
+18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
+19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
 2,,,,way
+20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
 "20th Street",,,,way
+21,,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
+22,,,,way
 "22nd Avenue",,,,way
 "22nd Street",,,,way
+23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
 "24th Avenue",,,,way
@@ -47,6 +61,11 @@ name,source,gender,wikidata,type
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
 3,,,,way
+24,,,,way
+25,,,,way
+26,,,,way
+27,,,,way
+28,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -62,30 +81,6 @@ name,source,gender,wikidata,type
 "3rd Avenue",,,,way
 "3rd Street",,,,way
 4,,,,way
-5,,,,way
-6,,,,way
-7,,,,way
-8,,,,way
-9,,,,way
-10,,,,way
-11,,,,way
-12,,,,way
-13,,,,way
-14,,,,way
-15,,,,way
-16,,,,way
-17,,,,way
-18,,,,way
-19,,,,way
-20,,,,way
-21,,,,way
-22,,,,way
-23,,,,way
-24,,,,way
-25,,,,way
-26,,,,way
-27,,,,way
-28,,,,way
 "40th Avenue",,,,way
 "41st Avenue",,,,way
 "42nd Avenue",,,,way
@@ -97,19 +92,24 @@ name,source,gender,wikidata,type
 "48th Avenue",,,,way
 "4th Avenue",,,,way
 "4th Street",,,,way
+5,,,,way
 "50 Beale Street Plaza",,,,way
 "560 Mission Street Plaza",,,,way
 "5th Avenue",,,,way
 "5th Avenue Entrance",,,,way
 "5th Street",,,,way
 "5th Street Plaza",,,,way
+6,,,,way
 "611 Folsom Street Plaza",,,,way
 "6th Avenue",,,,way
 "6th Street",,,,way
+7,,,,way
 "7th Avenue",,,,way
 "7th Street",,,,way
+8,,,,way
 "8th Avenue",,,,way
 "8th Street",,,,way
+9,,,,way
 "9th Avenue",,,,way
 "9th Street",,,,relation+way
 "A Dock",,,,way
@@ -127,6 +127,7 @@ name,source,gender,wikidata,type
 "Addison Street",,,,way
 "Admiral Avenue",,,,way
 "Aerial Way",,,,way
+"Agave Trail",,,,way
 "Agnon Avenue",,,,way
 "Agua Way",,,,way
 "Ahern Way",,,,way
@@ -135,6 +136,7 @@ name,source,gender,wikidata,type
 "Alana Way",,,,way
 "Alberta Street",,,,way
 "Albion Street",,,,way
+"Alcatraz Island",,,,relation
 "Alcatraz Wharf",,,,relation
 "Alder Street",,,,way
 "Alert Alley",,,,way
@@ -165,6 +167,7 @@ name,source,gender,wikidata,type
 "Anderson Street",,,,way
 "Andover Street",,,,way
 "Andrews Road",,,,way
+"Angel Island",,,,relation
 "Angelo's Alley",,,,way
 "Ankeny Street",,,,way
 "Annapolis Terrace",,,,way
@@ -223,6 +226,7 @@ name,source,gender,wikidata,type
 "Avon Way",,,,way
 "Aztec Street",,,,way
 "B Dock",,,,way
+"B Street",,,,way
 "Bache Street",,,,way
 "Bacon Street",,,,way
 "Baden Street",,,,way
@@ -240,7 +244,9 @@ name,source,gender,wikidata,type
 "Barcelona Avenue",,,,way
 "Barnard Avenue",,,,way
 "Barneveld Avenue",,,,way
+"Barstow Street",,,,way
 "Bartol Street",,,,way
+"Bartol Street (Enid Ng Lim Alley)",,,,way
 "Bass Court",,,,way
 "Batteries to Bluffs Trail",,,,way
 "Battery Caulfield Road",,,,way
@@ -397,7 +403,6 @@ Burrows,,,,way
 "Camp Street",,,,way
 "Campbell Avenue",,,,way
 "Campus Lane",,,,way
-"Campus Way",,,,way
 "Canby Street",,,,way
 "Candlestick Cove Way",,,,way
 "Canyon Drive",,,,way
@@ -534,7 +539,6 @@ Burrows,,,,way
 "Continuum Way",,,,way
 "Convention Plaza",,,,way
 "Cook Street",,,,way
-"Cooper Alley",,,,way
 "Copper Alley",,,,way
 "Cora Street",,,,way
 "Coral Road",,,,way
@@ -629,6 +633,7 @@ Burrows,,,,way
 "Del Vale Avenue",,,,way
 "Delancey Street",,,,way
 "Delano Avenue",,,,way
+"Delaware Street",,,,way
 "Delgado Place",,,,way
 "Dellbrook Avenue",,,,way
 "Delmar Street",,,,way
@@ -647,7 +652,6 @@ Burrows,,,,way
 "Dicha Alley",,,,way
 "Dichiera Court",,,,way
 "Digby Street",,,,way
-"Dirk Dirksen Place",,,,way
 "Divisadero Street",,,,way
 "Division Street",,,,way
 "Dixie Alley",,,,way
@@ -664,7 +668,6 @@ Burrows,,,,way
 "Dorland Street",,,,way
 "Dorman Avenue",,,,way
 "Dormitory Road",,,,way
-"Double Rock Street",,,,way
 "Douglass Street",,,,way
 "Downey Street",,,,way
 "Dr. Rolland and Kathryn Lowe Community Bridge",,,,way
@@ -890,6 +893,7 @@ Burrows,,,,way
 "Gladeview Way",,,,way
 "Gladiolus Lane",,,,way
 "Gladstone Drive",,,,way
+"Gladstone Way",,,,way
 "Gladys Street",,,,way
 "Glenbrook Avenue",,,,way
 "Glendale Street",,,,way
@@ -926,6 +930,7 @@ Burrows,,,,way
 "Graystone Terrace",,,,way
 "Great Highway",,,,way
 "Great Highway Extension",,,,way
+"Great Highway Promenade",,,,way
 "Green Street",,,,way
 "Green Tunnel",,,,way
 "Greenough Avenue",,,,way
@@ -1004,7 +1009,6 @@ Burrows,,,,way
 "Highland Avenue",,,,way
 "Higuera Avenue",,,,way
 "Hiliritas Avenue",,,,way
-"Hill Drive",,,,way
 "Hill Point Avenue",,,,way
 "Hill Street",,,,way
 "Hillcrest Court",,,,way
@@ -1055,7 +1059,6 @@ Burrows,,,,way
 "Idora Avenue",,,,way
 "Ignacio Avenue",,,,way
 "Illinois Street",,,,way
-"Ils Lane",,,,way
 "Ina Court",,,,way
 "Inca Lane",,,,way
 "Incinerator Road",,,,way
@@ -1393,6 +1396,7 @@ Kalmanovitz,,,,way
 "Mission Bay Boulevard",,,,way
 "Mission Bay Boulevard North",,,,way
 "Mission Bay Boulevard South",,,,way
+"Mission Bay Circle",,,,way
 "Mission Bay Drive",,,,way
 "Mission Rock Street",,,,way
 "Mission Street",,,,relation+way
@@ -1472,7 +1476,6 @@ Kalmanovitz,,,,way
 "Niagara Avenue",,,,way
 "Niantic Avenue",,,,way
 "Nibbi Court",,,,way
-"Nichols Way",,,,way
 "Nido Avenue",,,,way
 "Nike Road",,,,way
 "Nimitz Avenue",,,,way
@@ -1510,7 +1513,6 @@ Octavia,,,,way
 "Octavia Street",,,,way
 "Officer James W. Bloesch Road",,,,way
 "Ogden Avenue",,,,way
-"Old Chinatown Lane",,,,way
 "Old Macalla Road",,,,way
 "Olive Street",,,,way
 "Oliver Street",,,,way
@@ -1759,6 +1761,7 @@ Octavia,,,,way
 "Ruth Street",,,,way
 "Rutland Street",,,,way
 "Rutledge Street",,,,way
+"Sacramento Alley",,,,way
 "Sacramento Street",,,,way
 "Saddleback Drive",,,,way
 "Sadowa Street",,,,way
@@ -1973,9 +1976,9 @@ Octavia,,,,way
 "Terrace Walk",,,,way
 "Terry A. François Boulevard",,,,relation
 "Texas Street",,,,way
-"The Agave Trail",,,,way
 "The Embarcadero",,,,way
 "The Esplanade",,,,way
+"The Feeney Way",,,,way
 "The Great Stairs at Grace Cathedral",,,,way
 "The Nave",,,,way
 "The Quad",,,,relation
@@ -2154,6 +2157,7 @@ Octavia,,,,way
 "Willow Street",,,,way
 "Wilson Street",,,,way
 "Winding Way",,,,way
+"Windy Gulch Trail",,,,way
 "Winfield Street",,,,way
 "Winston Drive",,,,way
 "Wisconsin Street",,,,way
