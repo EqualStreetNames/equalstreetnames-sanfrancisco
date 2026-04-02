@@ -9,11 +9,12 @@ name,source,gender,wikidata,type
 12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
-13,,,,way
 "13th Street",,,,way
-14,,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
+2,,,,way
+13,,,,way
+14,,,,way
 15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
@@ -31,7 +32,6 @@ name,source,gender,wikidata,type
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
-2,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -45,27 +45,27 @@ name,source,gender,wikidata,type
 23,,,,way
 "23rd Avenue",,,,way
 "23rd Street",,,,way
+24,,,,way
 "24th Avenue",,,,way
 "24th Street",,,,way
+25,,,,way
 "25th Avenue",,,,way
 "25th Avenue North",,,,way
 "25th Street",,,,way
+26,,,,way
 "26th Avenue",,,,way
 "26th Street",,,,way
+27,,,,way
 "27th Avenue",,,,way
 "27th Street",,,,way
+3,,,,way
+28,,,,way
 "28th Avenue",,,,way
 "28th Street",,,,way
 "29th Avenue",,,,way
 "29th Street",,,,way
 "2nd Avenue",,,,way
 "2nd Street",,,,relation+way
-3,,,,way
-24,,,,way
-25,,,,way
-26,,,,way
-27,,,,way
-28,,,,way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -214,7 +214,6 @@ name,source,gender,wikidata,type
 "Avenue B",,,,way
 "Avenue D",,,,way
 "Avenue E",,,,way
-"Avenue G",,,,way
 "Avenue H",,,,way
 "Avenue I",,,,way
 "Avenue M",,,,way
@@ -436,6 +435,7 @@ Burrows,,,,way
 "Castillo Street",,,,way
 "Castle Manor Avenue",,,,way
 "Catalina Street",,,,way
+"Catherine Court",,,,way
 "Cayuga Avenue",,,,way
 "Cayuga and Lamartine Mini Park Path",,,,way
 "Cecilia Avenue",,,,way
@@ -1118,7 +1118,7 @@ Burrows,,,,way
 "Juniper Street",,,,way
 "Juri Street",,,,way
 "Justin Drive",,,,way
-Kalmanovitz,,,,way
+"Kalmanovitz Street",,,,way
 "Kamille Court",,,,way
 "Kansas Street",,,,way
 "Kaplan Lane",,,,way
