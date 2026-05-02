@@ -1,37 +1,37 @@
 name,source,gender,wikidata,type
 1,,,,way
-10,,,,way
 "10th Avenue",,,,way
 "10th Street",,,,way
-11,,,,way
 "11th Avenue",,,,way
 "11th Street",,,,way
-12,,,,way
 "12th Avenue",,,,way
 "12th Street",,,,way
 "13th Street",,,,way
 "14th Avenue",,,,way
 "14th Street",,,,way
-2,,,,way
-13,,,,way
-14,,,,way
-15,,,,way
 "15th Avenue",,,,way
 "15th Street",,,,way
-16,,,,way
 "16th Avenue",,,,way
 "16th Avenue Tiled Steps",,,,way
 "16th Street",,,,way
-17,,,,way
 "17th Avenue",,,,way
 "17th Street",,,,way
-18,,,,way
 "18th Avenue",,,,way
 "18th Street",,,,way
-19,,,,way
 "19th Avenue",,,,way
 "19th Street",,,,relation+way
 "1st Street",,,,way
+2,,,,way
+10,,,,way
+11,,,,way
+12,,,,way
+13,,,,way
+14,,,,way
+15,,,,way
+16,,,,way
+17,,,,way
+18,,,,way
+19,,,,way
 20,,,,way
 "20th Avenue",,,,way
 "20th Avenue Entrance",,,,way
@@ -58,14 +58,14 @@ name,source,gender,wikidata,type
 27,,,,way
 "27th Avenue",,,,way
 "27th Street",,,,way
+"28th Street",,,,way
+"29th Avenue",,,,way
+"2nd Avenue",,,,way
+"2nd Street",,,,relation+way
 3,,,,way
 28,,,,way
 "28th Avenue",,,,way
-"28th Street",,,,way
-"29th Avenue",,,,way
 "29th Street",,,,way
-"2nd Avenue",,,,way
-"2nd Street",,,,relation+way
 "303 Second Street Plaza",,,,way
 "30th Avenue",,,,way
 "30th Street",,,,way
@@ -245,7 +245,6 @@ name,source,gender,wikidata,type
 "Barneveld Avenue",,,,way
 "Barstow Street",,,,way
 "Bartol Street",,,,way
-"Bartol Street (Enid Ng Lim Alley)",,,,way
 "Bass Court",,,,way
 "Batteries to Bluffs Trail",,,,way
 "Battery Caulfield Road",,,,way
@@ -256,12 +255,12 @@ name,source,gender,wikidata,type
 "Bay Area Ridge Trail",,,,way
 "Bay Street",,,,way
 "Bay Trail",,,,way
+"Bay View Street",,,,way
 "Bayshore Boulevard",,,,way
 "Bayshore Freeway",,,,way
 "Bayside Drive",,,,way
 "Bayview Circle",,,,way
 "Bayview Park Road",,,,way
-"Bayview Street",,,,way
 "Beach Street",,,,way
 "Beachmont Drive",,,,way
 "Beacon Street",,,,way
@@ -1106,6 +1105,7 @@ Burrows,,,,way
 "Johnstone Drive",,,,way
 "Jones Street",,,,way
 "Jordan Avenue",,,,way
+"José Sarria Court",,,,way
 "Josepha Avenue",,,,way
 "Josiah Avenue",,,,way
 "Joy Street",,,,way
@@ -1163,6 +1163,7 @@ Burrows,,,,way
 "Lake Forest Court",,,,way
 "Lake Merced Bike Path",,,,way
 "Lake Merced Boulevard",,,,way
+"Lake Merced Boulevard bikeway",,,,way
 "Lake Merced Hill Street",,,,way
 "Lake Merced Hills Community Center Access Stairs",,,,way
 "Lake Merced Northbound Bikeway",,,,way
@@ -1502,6 +1503,7 @@ Burrows,,,,way
 "Oak Grove Street",,,,way
 "Oak Park Drive",,,,way
 "Oak Street",,,,way
+"Oak Street Cyclepath",,,,way
 "Oakdale Avenue",,,,way
 "Oakhurst Lane",,,,way
 "Oakwood Street",,,,way
@@ -1876,6 +1878,7 @@ Octavia,,,,way
 "Sims Road",,,,way
 "Skyline Boulevard",,,,way
 "Skyview Way",,,,way
+"Sloat Blvd bikeway",,,,way
 "Sola Avenue",,,,way
 "Somerset Street",,,,way
 "Sotelo Avenue",,,,way
@@ -1976,6 +1979,7 @@ Octavia,,,,way
 "Terrace Walk",,,,way
 "Terry A. François Boulevard",,,,relation
 "Texas Street",,,,way
+"The Agave Trail",,,,way
 "The Embarcadero",,,,way
 "The Esplanade",,,,way
 "The Feeney Way",,,,way
@@ -2126,6 +2130,7 @@ Octavia,,,,way
 "West Pacific Avenue",,,,way
 "West Portal Avenue",,,,way
 "West Ridge Trail",,,,way
+"West Road",,,,way
 "West View Avenue",,,,way
 "Westbrook Court",,,,way
 "Western Shore Lane",,,,way
